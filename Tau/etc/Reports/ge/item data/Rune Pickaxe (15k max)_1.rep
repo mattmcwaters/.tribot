@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Rune Pickaxe (15k max)
+Item ID: 1275
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 100
+Guide Price: -1
+Max Offer Value: 4.04m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 2
+Min Count (sell): 3
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 18366
+AI Sell Price: 21232
+AI Margin: 15.6%
+OSBuddy Buy AI Price: 18898
+OSBuddy Sell AI Price: 20878
+Average Price Change (B): -1485.6
+Average Price Change (S): 1120.7142857142858
+Median Price Change (B): -296.0
+Median Price Change (S): -220.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 19536
+Max Price: 20509
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 17656 : 18474 : 18435 : 17695 : 18131
+Average Volatility (min : max : buy : sell : both): 1688 : 1253 : 1225 : 1717 : 1343
+Average Volatility (%) (min : max : buy : sell : both): 9.56 : 6.78 : 6.64 : 9.7 : 7.4
+
+Change Values [buy: 537 | sell: 652 | buy (%): 2.69% | sell (%): 3.25% | buy (%) (.15): 6.66% | sell (%) (.15): 5.81%]
+Percent Traded (buy): 48.02%
+Percent Traded (sell): 51.97%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [1387 : -1141 : -1789 : 1223]
+Average Max Price Check Change: [603 : -863 : -2246 : 776]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 545.0
+Average Absolute Lookup Margin (%): 3.4%
+Average Lookup Margin: -493.0
+Average Lookup Margin (%): -3.13%
+Current Margin: 2866
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 60
+Volume Ratio: 6.13
+Trades per 4 Hours: 7.11
+Buying Percent Changing: 0.45454545454545453
+Selling Percent Changing: 0.5454545454545454
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 100 (10): 100 (15): 100 (20): 100 (30): 100 (40): 100 (45): 100 (50): 100 (60): 100 (75): 100 (90): 100 (120): 80
+Margins: (5): 593 (10): 892 (15): 1066 (20): 1300 (30): 1648 (40): 2236 (45): 2520 (50): 2560 (60): 1980 (75): 2417 (90): 1737 (120): 3367
+
+Time Elapsed: 399811:47:11
+-------------------------------

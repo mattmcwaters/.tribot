@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Bandos chaps
+Item ID: 12502
+Adjusted Profit: 12.35k
+Adjusted Profit/Hr: 941/Hr
+Average Profit: 12.36k
+Average Profit/Hr: 941/Hr
+Expected Profit: 14.80k
+Expected Profit/Hr: 1.12k/Hr
+Items Bought: 5
+Items Sold: 5
+Items Left to Buy: 14
+Guide Price: -1
+Max Offer Value: 4.04m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 00:34:10
+AI Buy Price: 19290
+AI Sell Price: 24430
+AI Margin: 26.64%
+OSBuddy Buy AI Price: 19222
+OSBuddy Sell AI Price: 23912
+Average Price Change (B): -384.0
+Average Price Change (S): 0.0
+Median Price Change (B): 1369.0
+Median Price Change (S): 1593.0
+Average Buy Price: 22236
+Average Sell Price: 24708
+Average Aborted Buy Price: 22160
+Average Aborted Sell Price: 25439
+Min Price: 20581
+Max Price: 20581
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 21346 : 24307 : 23516 : 22137 : 22834
+Average Volatility (min : max : buy : sell : both): 1193 : 1295 : 1799 : 1599 : 450
+Average Volatility (%) (min : max : buy : sell : both): 5.59 : 5.32 : 7.65 : 7.22 : 1.97
+
+Change Values [buy: -1135 | sell: 1599 | buy (%): -5.59% | sell (%): 6.73% | buy (%) (.15): 0.92% | sell (%) (.15): 6.73%]
+Percent Traded (buy): 47.91%
+Percent Traded (sell): 52.08%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [849 : -1617 : -1536 : 1233]
+Average Max Price Check Change: [1581 : -2349 : -1536 : 1965]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 2472
+Average Margin (%): 11.11%
+Average Absolute Lookup Margin: 1984.0
+Average Absolute Lookup Margin (%): 9.3%
+Average Lookup Margin: -1352.0
+Average Lookup Margin (%): -6.64%
+Current Margin: 5140
+Current Price Difference (buy): 5418
+Current Price Difference (sell): 2194
+
+Target Trade Time 3: 56
+Volume Ratio: 1.51
+Trades per 4 Hours: 1.09
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.5
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 8038883
+Time since last sell: 3560237
+
+Numbers Traded: (5): 15 (10): 15 (15): 15 (20): 15 (30): 15 (40): 15 (45): 15 (50): 15 (60): 15 (75): 15 (90): 15 (120): 12
+Margins: (5): 2019 (10): 2915 (15): 3467 (20): 3766 (30): 4117 (40): 4607 (45): 4690 (50): 4690 (60): 4690 (75): 4898 (90): 4629 (120): 4629
+
+Time Elapsed: 399811:47:14
+-------------------------------

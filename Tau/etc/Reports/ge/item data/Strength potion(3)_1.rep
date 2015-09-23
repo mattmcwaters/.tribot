@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Strength potion(3)
+Item ID: 115
+Adjusted Profit: 2.22k
+Adjusted Profit/Hr: 169/Hr
+Average Profit: 5.80k
+Average Profit/Hr: 441/Hr
+Expected Profit: 9.50k
+Expected Profit/Hr: 723/Hr
+Items Bought: 100
+Items Sold: 38
+Items Left to Buy: 2.00k
+Guide Price: -1
+Max Offer Value: 4.01m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 41478
+Offer Count (sell): 62
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 477
+AI Sell Price: 669
+AI Margin: 40.25%
+OSBuddy Buy AI Price: 494
+OSBuddy Sell AI Price: 631
+Average Price Change (B): -55.5
+Average Price Change (S): 51.75
+Median Price Change (B): 15.0
+Median Price Change (S): 22.0
+Average Buy Price: 635
+Average Sell Price: 693
+Average Aborted Buy Price: 511
+Average Aborted Sell Price: 811
+Min Price: 533
+Max Price: 625
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 533 : 628 : 628 : 533 : 586
+Average Volatility (min : max : buy : sell : both): 7 : 26 : 26 : 7 : 39
+Average Volatility (%) (min : max : buy : sell : both): 1.44 : 4.16 : 4.16 : 1.44 : 6.7
+
+Change Values [buy: -28 | sell: 0 | buy (%): -5.12% | sell (%): 0.0% | buy (%) (.15): -9.29% | sell (%) (.15): 0.0%]
+Percent Traded (buy): 49.11%
+Percent Traded (sell): 50.88%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [3 : 0 : 3 : 0]
+Average Max Price Check Change: [113 : -30 : 53 : 43]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 58
+Average Margin (%): 9.13%
+Average Absolute Lookup Margin: 67.0
+Average Absolute Lookup Margin (%): 12.48%
+Average Lookup Margin: -67.0
+Average Lookup Margin (%): -12.39%
+Current Margin: 192
+Current Price Difference (buy): 193
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 60
+Volume Ratio: 0.93
+Trades per 4 Hours: 4.11
+Buying Percent Changing: 0.2857142857142857
+Selling Percent Changing: 0.42857142857142855
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 25686102
+Time since last sell: 13857231
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 2000 (40): 2000 (45): 2000 (50): 2000 (60): 2000 (75): 2000 (90): 2000 (120): 1600
+Margins: (5): 43 (10): 66 (15): 87 (20): 103 (30): 114 (40): 126 (45): 130 (50): 135 (60): 137 (75): 144 (90): 141 (120): 151
+
+Time Elapsed: 399811:47:12
+-------------------------------

@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 13:07:27
+Adjusted Profit: 665.04k
+Adjusted Profit/Hr: 50.67k/Hr
+Average Profit: 825.46k
+Average Profit/Hr: 62.89k/Hr
+Expected Profit: 779.04k
+Expected Profit/Hr: 59.35k/Hr
+Total Value: 12.94m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: false
+Offers Idle: false
+Are Prices Updated: true
+Can Update Prices: false
+Highest Max Price: 561563
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.5
+Anti-Hoard: true
+Best Offer Item: null
+Best Offer Item (NM): null
+Expired Offer: Temp Record null
+Abort Offer: Temp Record null
+Idle Time Left: 00:-1:-8
+Stay Logged In Time Left: 00:00:00
+Collect Time Left: 00:00:-8
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 13:00:10
+Name: Zamorak d'hide
+Offer: GeOffer{itemID=10370, name=Zamorak d'hide, status=BUYING, quantity=1, price=462637, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 13:07:20
+Name: Magic seed
+Offer: GeOffer{itemID=5316, name=Magic seed, status=BUYING, quantity=10, price=83607, tradeStatus=ABORTED, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 13:06:29
+Name: Armadyl chaps
+Offer: GeOffer{itemID=12510, name=Armadyl chaps, status=BUYING, quantity=22, price=96852, tradeStatus=IN_PROGRESS, tradedItems=1, tradedGold=96852}
+Index: 3
+Has Expired: false
+Time Posted: 13:00:45
+Name: Armadyl chaps
+Offer: GeOffer{itemID=12510, name=Armadyl chaps, status=SELLING, quantity=6, price=101484, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 13:07:09
+Name: Zamorak d'hide
+Offer: GeOffer{itemID=10370, name=Zamorak d'hide, status=SELLING, quantity=5, price=469982, tradeStatus=IN_PROGRESS, tradedItems=2, tradedGold=942303}
+Index: 5
+Has Expired: false
+Time Posted: 12:49:08
+Name: Sapphire necklace
+Offer: GeOffer{itemID=1656, name=Sapphire necklace, status=SELLING, quantity=948, price=1542, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 13:00:57
+Name: Sapphire necklace
+Offer: GeOffer{itemID=1656, name=Sapphire necklace, status=BUYING, quantity=1742, price=1265, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 12:49:33
+Name: Cadantine potion (unf)
+Offer: GeOffer{itemID=107, name=Cadantine potion (unf), status=BUYING, quantity=760, price=2450, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}

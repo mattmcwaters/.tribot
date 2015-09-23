@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Super strength(3)
+Item ID: 157
+Adjusted Profit: 90.83k
+Adjusted Profit/Hr: 11.04k/Hr
+Average Profit: 126.88k
+Average Profit/Hr: 15.42k/Hr
+Expected Profit: 152.25k
+Expected Profit/Hr: 18.51k/Hr
+Items Bought: 3.17k
+Items Sold: 2.27k
+Items Left to Buy: 828
+Guide Price: -1
+Max Offer Value: 663.35k
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 661546
+Offer Count (buy): 158
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: 00:00:02
+Average Sell Time: 00:00:00
+AI Buy Price: 4187
+AI Sell Price: 4347
+AI Margin: 3.82%
+OSBuddy Buy AI Price: 4212
+OSBuddy Sell AI Price: 4276
+Average Price Change (B): -66.0
+Average Price Change (S): 58.0
+Median Price Change (B): 87.0
+Median Price Change (S): 87.0
+Average Buy Price: 4240
+Average Sell Price: 4280
+Average Aborted Buy Price: 4212
+Average Aborted Sell Price: -1
+Min Price: 4140
+Max Price: 4264
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 4182 : 4230 : 4217 : 4195 : 4205
+Average Volatility (min : max : buy : sell : both): 65 : 75 : 84 : 68 : 75
+Average Volatility (%) (min : max : buy : sell : both): 1.55 : 1.78 : 1.99 : 1.62 : 1.8
+
+Change Values [buy: -99 | sell: -59 | buy (%): -2.41% | sell (%): -1.45% | buy (%) (.15): -1.58% | sell (%) (.15): 1.36%]
+Percent Traded (buy): 35.36%
+Percent Traded (sell): 64.63%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [49 : -51 : 95 : 49]
+Average Max Price Check Change: [204 : -44 : 26 : 63]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 40
+Average Margin (%): 0.94%
+Average Absolute Lookup Margin: 41.0
+Average Absolute Lookup Margin (%): 0.96%
+Average Lookup Margin: -28.0
+Average Lookup Margin (%): -0.65%
+Current Margin: 160
+Current Price Difference (buy): 98
+Current Price Difference (sell): 112
+
+Target Trade Time 3: 36
+Volume Ratio: 3.78
+Trades per 4 Hours: 13.07
+Buying Percent Changing: 0.2
+Selling Percent Changing: 0.2
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 987021
+Time since last sell: 92952
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 2000 (40): 2000 (45): 1954 (50): 1759 (60): 1467 (75): 1175 (90): 979 (120): 734
+Margins: (5): 28 (10): 40 (15): 48 (20): 55 (30): 57 (40): 68 (45): 68 (50): 68 (60): 72 (75): 76 (90): 114 (120): 155
+
+Time Elapsed: 399989:38:19
+-------------------------------

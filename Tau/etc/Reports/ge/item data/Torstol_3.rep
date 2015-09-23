@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Torstol
+Item ID: 269
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 2.00k
+Guide Price: -1
+Max Offer Value: 5.14m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 658042
+Offer Count (buy): 77
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 8546
+AI Sell Price: 8769
+AI Margin: 2.6%
+OSBuddy Buy AI Price: 8501
+OSBuddy Sell AI Price: 8726
+Average Price Change (B): 0.0
+Average Price Change (S): 40.333333333333336
+Median Price Change (B): 108.0
+Median Price Change (S): 114.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 8584
+Max Price: 8600
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 8626 : 8782 : 8764 : 8643 : 8703
+Average Volatility (min : max : buy : sell : both): 39 : 143 : 158 : 52 : 91
+Average Volatility (%) (min : max : buy : sell : both): 0.46 : 1.63 : 1.8 : 0.6 : 1.05
+
+Change Values [buy: -152 | sell: -26 | buy (%): -1.77% | sell (%): -0.3% | buy (%) (.15): -1.9% | sell (%) (.15): -0.58%]
+Percent Traded (buy): 36.53%
+Percent Traded (sell): 63.46%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [37 : -44 : 23 : 40]
+Average Max Price Check Change: [347 : -148 : 399 : 198]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 141.0
+Average Absolute Lookup Margin (%): 1.63%
+Average Lookup Margin: -125.0
+Average Lookup Margin (%): -1.44%
+Current Margin: 223
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 16
+Volume Ratio: 5.39
+Trades per 4 Hours: 26.73
+Buying Percent Changing: 0.2857142857142857
+Selling Percent Changing: 0.42857142857142855
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 1452 (40): 1093 (45): 971 (50): 874 (60): 731 (75): 585 (90): 487 (120): 365
+Margins: (5): 148 (10): 208 (15): 225 (20): 255 (30): 259 (40): 309 (45): 310 (50): 321 (60): 348 (75): 363 (90): 361 (120): 364
+
+Time Elapsed: 399989:38:19
+-------------------------------

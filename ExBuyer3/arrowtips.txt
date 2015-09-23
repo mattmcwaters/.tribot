@@ -1,0 +1,30 @@
+#ExBuyer3
+#Sun Sep 06 16:14:22 EDT 2015
+pathToBank=
+shopTrader=true,Hickton,Trade
+obstaclesToShop=
+useFastMode=true
+shopItems=Buy-40-Iron arrowtips-650,Buy-41-Steel arrowtips-195,Buy-42-Mithril arrowtips-85,Buy-43-Adamant arrowtips-85,Buy-44-Rune arrowtips-80
+shopTile=null\r\n
+bankArea=
+currency=COINS
+useExactBuying=false
+useBankArea=false
+hopInRandomOrderInCustomList=false
+bankTile=null
+useF2P=false
+obstaclesForMisclick=
+worlds=
+enableWorldHopping=true
+useIngameWorldHopper=true
+useWebWalker=false
+obstaclesToBank=
+useCustomWorldHopping=false
+maxWithdrawl=
+pathToShop=
+enableBanking=false
+withdrawWhenLessThan=
+potionType=NONE
+bankingMode=CHEST
+withdrawCurrency=false
+minWithdrawl=

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Adamant knife
+Item ID: 867
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 7.00k
+Guide Price: -1
+Max Offer Value: 4.95m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 785060
+Offer Count (buy): 2309
+Offer Value (sell): 46431
+Offer Count (sell): 99
+Min Count (buy): 175
+Min Count (sell): 245
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 340
+AI Sell Price: 469
+AI Margin: 37.94%
+OSBuddy Buy AI Price: 348
+OSBuddy Sell AI Price: 449
+Average Price Change (B): -22.0
+Average Price Change (S): 30.0
+Median Price Change (B): 15.0
+Median Price Change (S): 22.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 389
+Max Price: 409
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 387 : 455 : 440 : 403 : 426
+Average Volatility (min : max : buy : sell : both): 5 : 22 : 37 : 24 : 19
+Average Volatility (%) (min : max : buy : sell : both): 1.44 : 5.01 : 8.4 : 6.15 : 4.64
+
+Change Values [buy: 31 | sell: -20 | buy (%): 6.67% | sell (%): -5.19% | buy (%) (.15): 6.77% | sell (%) (.15): -5.77%]
+Percent Traded (buy): 75.17%
+Percent Traded (sell): 24.82%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [8 : -8 : 8 : 8]
+Average Max Price Check Change: [2 : -4 : -7 : 3]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 51.0
+Average Absolute Lookup Margin (%): 12.79%
+Average Lookup Margin: -37.0
+Average Lookup Margin (%): -9.81%
+Current Margin: 129
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 48
+Volume Ratio: 1.05
+Trades per 4 Hours: 4.48
+Buying Percent Changing: 0.2
+Selling Percent Changing: 0.4
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 7000 (10): 7000 (15): 7000 (20): 7000 (30): 7000 (40): 7000 (45): 7000 (50): 7000 (60): 7000 (75): 7000 (90): 7000 (120): 5600
+Margins: (5): 50 (10): 72 (15): 81 (20): 91 (30): 94 (40): 101 (45): 101 (50): 101 (60): 101 (75): 101 (90): 99 (120): 99
+
+Time Elapsed: 399988:46:58
+-------------------------------

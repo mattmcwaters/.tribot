@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Swordfish
+Item ID: 373
+Adjusted Profit: 18.10k
+Adjusted Profit/Hr: 3.56k/Hr
+Average Profit: 18.62k
+Average Profit/Hr: 3.66k/Hr
+Expected Profit: 13.54k
+Expected Profit/Hr: 2.66k/Hr
+Items Bought: 1.69k
+Items Sold: 1.69k
+Items Left to Buy: 4.30k
+Guide Price: -1
+Max Offer Value: 3.36m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 1356705
+Offer Count (buy): 4307
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 150
+Min Count (sell): 210
+Is Offered (buy): true
+Is Offered (sell): false
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 00:00:04
+AI Buy Price: 315
+AI Sell Price: 334
+AI Margin: 6.03%
+OSBuddy Buy AI Price: 310
+OSBuddy Sell AI Price: 331
+Average Price Change (B): -6.125
+Average Price Change (S): 6.6
+Median Price Change (B): 2.0
+Median Price Change (S): 2.0
+Average Buy Price: 321
+Average Sell Price: 332
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 320
+Max Price: 333
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 328 : 336 : 334 : 330 : 332
+Average Volatility (min : max : buy : sell : both): 5 : 1 : 4 : 5 : 4
+Average Volatility (%) (min : max : buy : sell : both): 1.8 : 0.37 : 1.34 : 1.56 : 1.38
+
+Change Values [buy: -1 | sell: -1 | buy (%): -0.42% | sell (%): -0.42% | buy (%) (.15): 1.05% | sell (%) (.15): -0.08%]
+Percent Traded (buy): 70.03%
+Percent Traded (sell): 29.96%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [7 : -10 : 0 : 8]
+Average Max Price Check Change: [3 : -2 : 1 : 2]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): false
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 11
+Average Margin (%): 3.42%
+Average Absolute Lookup Margin: 6.0
+Average Absolute Lookup Margin (%): 1.79%
+Average Lookup Margin: -3.0
+Average Lookup Margin (%): -0.99%
+Current Margin: 19
+Current Price Difference (buy): 17
+Current Price Difference (sell): 13
+
+Target Trade Time 3: 66
+Volume Ratio: 18.82
+Trades per 4 Hours: 3.49
+Buying Percent Changing: 0.3333333333333333
+Selling Percent Changing: 0.4166666666666667
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 7104052
+Time since last sell: 1174443
+
+Numbers Traded: (5): 6000 (10): 6000 (15): 6000 (20): 6000 (30): 6000 (40): 6000 (45): 6000 (50): 6000 (60): 6000 (75): 6000 (90): 6000 (120): 6000
+Margins: (5): 4 (10): 5 (15): 10 (20): 13 (30): 11 (40): 18 (45): 17 (50): 19 (60): 20 (75): 22 (90): 20 (120): 19
+
+Time Elapsed: 400066:59:15
+-------------------------------

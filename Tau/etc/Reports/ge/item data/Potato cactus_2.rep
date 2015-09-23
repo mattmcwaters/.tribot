@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Potato cactus
+Item ID: 3138
+Adjusted Profit: 815
+Adjusted Profit/Hr: 99/Hr
+Average Profit: 88.48k
+Average Profit/Hr: 10.75k/Hr
+Expected Profit: 154.84k
+Expected Profit/Hr: 18.82k/Hr
+Items Bought: 11.06k
+Items Sold: 105
+Items Left to Buy: 2.95k
+Guide Price: -1
+Max Offer Value: 1.84m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 661402
+Offer Count (buy): 2779
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 250
+Min Count (sell): 350
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 238
+AI Sell Price: 301
+AI Margin: 26.47%
+OSBuddy Buy AI Price: 233
+OSBuddy Sell AI Price: 291
+Average Price Change (B): -6.0
+Average Price Change (S): 12.0
+Median Price Change (B): 9.0
+Median Price Change (S): 10.0
+Average Buy Price: 271
+Average Sell Price: 279
+Average Aborted Buy Price: 227
+Average Aborted Sell Price: 358
+Min Price: 250
+Max Price: 250
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 245 : 259 : 259 : 245 : 246
+Average Volatility (min : max : buy : sell : both): 1 : 19 : 19 : 1 : 3
+Average Volatility (%) (min : max : buy : sell : both): 0.58 : 7.33 : 7.33 : 0.58 : 1.27
+
+Change Values [buy: -10 | sell: 4 | buy (%): -3.84% | sell (%): 1.77% | buy (%) (.15): -3.6% | sell (%) (.15): 1.99%]
+Percent Traded (buy): 39.23%
+Percent Traded (sell): 60.76%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [0 : -5 : -5 : 1]
+Average Max Price Check Change: [0 : -5 : -5 : 1]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 8
+Average Margin (%): 2.95%
+Average Absolute Lookup Margin: 42.0
+Average Absolute Lookup Margin (%): 16.58%
+Average Lookup Margin: -42.0
+Average Lookup Margin (%): -16.58%
+Current Margin: 63
+Current Price Difference (buy): 41
+Current Price Difference (sell): 41
+
+Target Trade Time 3: 60
+Volume Ratio: 1.43
+Trades per 4 Hours: 3.89
+Buying Percent Changing: 0.2857142857142857
+Selling Percent Changing: 0.2857142857142857
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 1728497
+Time since last sell: 79841
+
+Numbers Traded: (5): 10000 (10): 10000 (15): 10000 (20): 10000 (30): 10000 (40): 10000 (45): 10000 (50): 10000 (60): 10000 (75): 10000 (90): 10000 (120): 8000
+Margins: (5): 18 (10): 22 (15): 30 (20): 32 (30): 40 (40): 55 (45): 56 (50): 57 (60): 58 (75): 66 (90): 60 (120): 60
+
+Time Elapsed: 399989:38:19
+-------------------------------

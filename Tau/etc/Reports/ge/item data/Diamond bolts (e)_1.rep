@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Diamond bolts (e)
+Item ID: 9243
+Adjusted Profit: 395.69k
+Adjusted Profit/Hr: 53.70k/Hr
+Average Profit: 435.78k
+Average Profit/Hr: 59.14k/Hr
+Expected Profit: 89.39k
+Expected Profit/Hr: 12.13k/Hr
+Items Bought: 11.17k
+Items Sold: 10.00k
+Items Left to Buy: 6.71k
+Guide Price: -1
+Max Offer Value: 4.29m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 785295
+Offer Count (buy): 1385
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 250
+Min Count (sell): 350
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: 00:00:51
+Average Sell Time: 00:00:00
+AI Buy Price: 567
+AI Sell Price: 585
+AI Margin: 3.17%
+OSBuddy Buy AI Price: 564
+OSBuddy Sell AI Price: 582
+Average Price Change (B): -5.666666666666667
+Average Price Change (S): 8.0
+Median Price Change (B): -1.0
+Median Price Change (S): 2.0
+Average Buy Price: 562
+Average Sell Price: 601
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: 604
+Min Price: 575
+Max Price: 577
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 578 : 586 : 583 : 581 : 581
+Average Volatility (min : max : buy : sell : both): 8 : 7 : 10 : 5 : 7
+Average Volatility (%) (min : max : buy : sell : both): 1.45 : 1.25 : 1.78 : 0.91 : 1.34
+
+Change Values [buy: -12 | sell: -4 | buy (%): -2.21% | sell (%): -0.69% | buy (%) (.15): -5.39% | sell (%) (.15): -0.61%]
+Percent Traded (buy): 39.6%
+Percent Traded (sell): 60.39%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [12 : -13 : 7 : 12]
+Average Max Price Check Change: [4 : -4 : 16 : 3]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 39
+Average Margin (%): 6.93%
+Average Absolute Lookup Margin: 9.0
+Average Absolute Lookup Margin (%): 1.49%
+Average Lookup Margin: -5.0
+Average Lookup Margin (%): -0.93%
+Current Margin: 18
+Current Price Difference (buy): 31
+Current Price Difference (sell): 18
+
+Target Trade Time 3: 52
+Volume Ratio: 15.2
+Trades per 4 Hours: 9.24
+Buying Percent Changing: 0.4166666666666667
+Selling Percent Changing: 0.5833333333333334
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 701981
+Time since last sell: 665173
+
+Numbers Traded: (5): 10000 (10): 10000 (15): 10000 (20): 10000 (30): 10000 (40): 10000 (45): 10000 (50): 10000 (60): 10000 (75): 8499 (90): 7082 (120): 5321
+Margins: (5): 7 (10): 10 (15): 11 (20): 14 (30): 15 (40): 18 (45): 18 (50): 18 (60): 20 (75): 20 (90): 20 (120): 22
+
+Time Elapsed: 399988:46:58
+-------------------------------

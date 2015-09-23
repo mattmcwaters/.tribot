@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Verac's brassard
+Item ID: 4757
+Adjusted Profit: 121.46k
+Adjusted Profit/Hr: 17.98k/Hr
+Average Profit: 145.75k
+Average Profit/Hr: 21.57k/Hr
+Expected Profit: 54.12k
+Expected Profit/Hr: 8.01k/Hr
+Items Bought: 12
+Items Sold: 10
+Items Left to Buy: 8
+Guide Price: -1
+Max Offer Value: 4.82m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: 00:00:03
+Average Sell Time: No Recent Trades
+AI Buy Price: 178071
+AI Sell Price: 202967
+AI Margin: 13.98%
+OSBuddy Buy AI Price: 179963
+OSBuddy Sell AI Price: 197868
+Average Price Change (B): -12243.666666666666
+Average Price Change (S): 6414.0
+Median Price Change (B): -273.0
+Median Price Change (S): 250.0
+Average Buy Price: 183150
+Average Sell Price: 195296
+Average Aborted Buy Price: 179410
+Average Aborted Sell Price: 204330
+Min Price: 191107
+Max Price: 191107
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 187089 : 191599 : 191475 : 187213 : 188397
+Average Volatility (min : max : buy : sell : both): 7763 : 3820 : 3755 : 7828 : 6426
+Average Volatility (%) (min : max : buy : sell : both): 4.14 : 1.99 : 1.96 : 4.18 : 3.41
+
+Change Values [buy: 1007 | sell: 5534 | buy (%): 0.48% | sell (%): 2.83% | buy (%) (.15): 0.21% | sell (%) (.15): 2.72%]
+Percent Traded (buy): 45.71%
+Percent Traded (sell): 54.28%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [4816 : -12469 : -10488 : 6564]
+Average Max Price Check Change: [4748 : -9557 : -4869 : 5559]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): false
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 12146
+Average Margin (%): 6.63%
+Average Absolute Lookup Margin: 2794.0
+Average Absolute Lookup Margin (%): 1.59%
+Average Lookup Margin: -2301.0
+Average Lookup Margin (%): -1.33%
+Current Margin: 24896
+Current Price Difference (buy): 17225
+Current Price Difference (sell): 19531
+
+Target Trade Time 3: 50
+Volume Ratio: 6.4
+Trades per 4 Hours: 2.0
+Buying Percent Changing: 0.3333333333333333
+Selling Percent Changing: 0.4444444444444444
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 6563977
+Time since last sell: 144521
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 10 (30): 10 (40): 10 (45): 10 (50): 10 (60): 10 (75): 10 (90): 10 (120): 10
+Margins: (5): 6123 (10): 10038 (15): 11671 (20): 13279 (30): 14379 (40): 17024 (45): 17903 (50): 17905 (60): 19057 (75): 21150 (90): 22144 (120): 22343
+
+Time Elapsed: 400012:50:03
+-------------------------------

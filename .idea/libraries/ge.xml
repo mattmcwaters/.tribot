@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tau/etc/Reports/ge.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

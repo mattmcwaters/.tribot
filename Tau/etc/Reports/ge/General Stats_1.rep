@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 22:47:40
+Adjusted Profit: 551.23k
+Adjusted Profit/Hr: 24.18k/Hr
+Average Profit: 659.25k
+Average Profit/Hr: 28.92k/Hr
+Expected Profit: 369.10k
+Expected Profit/Hr: 16.19k/Hr
+Total Value: 5.79m
+Is AI Start: true
+
+Offers Expired: true
+Records Updated: true
+Can Trade: true
+Offers Idle: false
+Are Prices Updated: true
+Can Update Prices: true
+Highest Max Price: 99339
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=true, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 3.0
+Anti-Hoard: true
+Best Offer Item: combat 
+Best Offer Item (NM): combat 
+Expired Offer: Uncut jade [7]
+Abort Offer: Lobster [3]
+Idle Time Left: -2:-23:-11
+Stay Logged In Time Left: 00:00:-30
+Collect Time Left: 00:00:-36
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 22:47:04
+Name: Magic seed
+Offer: GeOffer{itemID=5316, name=Magic seed, status=SELLING, quantity=7, price=82343, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 22:47:10
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 22:46:52
+Name: Blue dragonhide
+Offer: GeOffer{itemID=1751, name=Blue dragonhide, status=SELLING, quantity=466, price=1952, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 3
+Has Expired: false
+Time Posted: 22:46:44
+Name: Lobster
+Offer: GeOffer{itemID=379, name=Lobster, status=SELLING, quantity=1630, price=165, tradeStatus=IN_PROGRESS, tradedItems=227, tradedGold=37455}
+Index: 4
+Has Expired: false
+Time Posted: 22:46:44
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 22:46:44
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 22:46:44
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: true
+Time Posted: 20:04:47
+Name: Uncut jade
+Offer: GeOffer{itemID=1627, name=Uncut jade, status=SELLING, quantity=2785, price=426, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}

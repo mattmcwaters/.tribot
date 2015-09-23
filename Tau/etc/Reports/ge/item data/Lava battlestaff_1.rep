@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Lava battlestaff
+Item ID: 3053
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 500
+Guide Price: -1
+Max Offer Value: 3.96m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 81424
+Offer Count (sell): 8
+Min Count (buy): 12
+Min Count (sell): 17
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 9579
+AI Sell Price: 10178
+AI Margin: 6.25%
+OSBuddy Buy AI Price: 9526
+OSBuddy Sell AI Price: 10162
+Average Price Change (B): -62.0
+Average Price Change (S): 170.0
+Median Price Change (B): -175.0
+Median Price Change (S): -142.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 9739
+Max Price: 9800
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 9805 : 10225 : 10222 : 9807 : 9899
+Average Volatility (min : max : buy : sell : both): 48 : 516 : 518 : 48 : 102
+Average Volatility (%) (min : max : buy : sell : both): 0.49 : 5.05 : 5.07 : 0.49 : 1.03
+
+Change Values [buy: -2 | sell: 16 | buy (%): -0.27% | sell (%): 0.15% | buy (%) (.15): -3.86% | sell (%) (.15): 0.01%]
+Percent Traded (buy): 37.76%
+Percent Traded (sell): 62.23%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [112 : -82 : 61 : 77]
+Average Max Price Check Change: [604 : -8 : 1200 : 243]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 280.0
+Average Absolute Lookup Margin (%): 2.88%
+Average Lookup Margin: -249.0
+Average Lookup Margin (%): -2.56%
+Current Margin: 599
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 32
+Volume Ratio: 0.47
+Trades per 4 Hours: 17.36
+Buying Percent Changing: 0.4444444444444444
+Selling Percent Changing: 0.4444444444444444
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 500 (10): 500 (15): 500 (20): 500 (30): 500 (40): 500 (45): 500 (50): 492 (60): 410 (75): 329 (90): 274 (120): 205
+Margins: (5): 254 (10): 373 (15): 476 (20): 550 (30): 635 (40): 727 (45): 759 (50): 761 (60): 762 (75): 779 (90): 736 (120): 749
+
+Time Elapsed: 399811:47:12
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Harralander
+Item ID: 255
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 12.00k
+Guide Price: -1
+Max Offer Value: 6.64m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 300
+Min Count (sell): 420
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 456
+AI Sell Price: 530
+AI Margin: 16.22%
+OSBuddy Buy AI Price: 461
+OSBuddy Sell AI Price: 509
+Average Price Change (B): -20.333333333333332
+Average Price Change (S): 16.2
+Median Price Change (B): -3.0
+Median Price Change (S): -3.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 486
+Max Price: 505
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 469 : 480 : 477 : 472 : 472
+Average Volatility (min : max : buy : sell : both): 14 : 12 : 14 : 13 : 13
+Average Volatility (%) (min : max : buy : sell : both): 3.15 : 2.6 : 3.01 : 2.86 : 2.88
+
+Change Values [buy: 21 | sell: 12 | buy (%): 4.07% | sell (%): 2.46% | buy (%) (.15): 4.98% | sell (%) (.15): 2.72%]
+Percent Traded (buy): 31.97%
+Percent Traded (sell): 68.02%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [16 : -31 : -14 : 22]
+Average Max Price Check Change: [7 : -33 : -18 : 9]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 10.0
+Average Absolute Lookup Margin (%): 2.09%
+Average Lookup Margin: -4.0
+Average Lookup Margin (%): -0.99%
+Current Margin: 74
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 56
+Volume Ratio: 1.3
+Trades per 4 Hours: 7.16
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.3
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 12000 (10): 12000 (15): 12000 (20): 12000 (30): 12000 (40): 12000 (45): 12000 (50): 12000 (60): 12000 (75): 12000 (90): 11601 (120): 8663
+Margins: (5): 10 (10): 13 (15): 35 (20): 45 (30): 38 (40): 47 (45): 47 (50): 47 (60): 49 (75): 55 (90): 54 (120): 52
+
+Time Elapsed: 400114:04:38
+-------------------------------

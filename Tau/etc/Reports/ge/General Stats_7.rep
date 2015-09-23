@@ -1,0 +1,73 @@
+Username: jamie221rs
+Run Time: 05:04:57
+Adjusted Profit: 216.64k
+Adjusted Profit/Hr: 42.62k/Hr
+Average Profit: 417.70k
+Average Profit/Hr: 82.18k/Hr
+Expected Profit: 458.75k
+Expected Profit/Hr: 90.26k/Hr
+Total Value: 13.45m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: true
+Offers Idle: true
+Are Prices Updated: true
+Can Update Prices: true
+Highest Max Price: 380897
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: Black dragon leather |bad
+Best Offer Item (NM): Black dragon leather |bad
+Expired Offer: Temp Record null
+Abort Offer: Dragon mace [5]
+Idle Time Left: 00:01:27
+Stay Logged In Time Left: 00:-1:-4
+Collect Time Left: 00:-2:-25
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 05:03:52
+Name: Super strength(3)
+Offer: GeOffer{itemID=157, name=Super strength(3), status=SELLING, quantity=420, price=4570, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 05:03:52
+Name: Cannonball
+Offer: GeOffer{itemID=2, name=Cannonball, status=SELLING, quantity=1507, price=220, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 05:03:52
+Name: Silver ore
+Offer: GeOffer{itemID=442, name=Silver ore, status=SELLING, quantity=2393, price=300, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 3
+Has Expired: false
+Time Posted: 05:03:52
+Name: Swordfish
+Offer: GeOffer{itemID=373, name=Swordfish, status=BUYING, quantity=1153, price=316, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 05:04:09
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 05:04:44
+Name: Dragon mace
+Offer: GeOffer{itemID=1434, name=Dragon mace, status=SELLING, quantity=1, price=34893, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 05:04:40
+Name: Dragon bones
+Offer: GeOffer{itemID=536, name=Dragon bones, status=SELLING, quantity=84, price=3147, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 05:04:25
+Name: Black dragonhide
+Offer: GeOffer{itemID=1747, name=Black dragonhide, status=SELLING, quantity=976, price=3070, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}

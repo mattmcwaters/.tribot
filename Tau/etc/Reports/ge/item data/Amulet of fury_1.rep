@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Amulet of fury
+Item ID: 6585
+Adjusted Profit: 161.22k
+Adjusted Profit/Hr: 16.48k/Hr
+Average Profit: 161.21k
+Average Profit/Hr: 16.48k/Hr
+Expected Profit: 343.96k
+Expected Profit/Hr: 35.17k/Hr
+Items Bought: 16
+Items Sold: 16
+Items Left to Buy: 2
+Guide Price: -1
+Max Offer Value: 6.64m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 3017661
+AI Sell Price: 3038613
+AI Margin: 0.69%
+OSBuddy Buy AI Price: 3024220
+OSBuddy Sell AI Price: 3034669
+Average Price Change (B): -12507.0
+Average Price Change (S): 14064.0
+Median Price Change (B): 261.0
+Median Price Change (S): 261.0
+Average Buy Price: 3010601
+Average Sell Price: 3020677
+Average Aborted Buy Price: 3008149
+Average Aborted Sell Price: -1
+Min Price: 3020914
+Max Price: 3036230
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 3011090 : 3032588 : 3032588 : 3011090 : 3025113
+Average Volatility (min : max : buy : sell : both): 5709 : 10041 : 10041 : 5709 : 9071
+Average Volatility (%) (min : max : buy : sell : both): 0.18 : 0.33 : 0.33 : 0.18 : 0.29
+
+Change Values [buy: 8439 | sell: 579 | buy (%): 0.27% | sell (%): 0.01% | buy (%) (.15): 0.33% | sell (%) (.15): 0.35%]
+Percent Traded (buy): 60.36%
+Percent Traded (sell): 39.63%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [1792 : -5372 : -17903 : 4178]
+Average Max Price Check Change: [7241 : -14162 : -20763 : 10701]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 12.48%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 12.48%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): false
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 10076
+Average Margin (%): 0.33%
+Average Absolute Lookup Margin: 16615.0
+Average Absolute Lookup Margin (%): 0.55%
+Average Lookup Margin: -14571.0
+Average Lookup Margin (%): -0.48%
+Current Margin: 20952
+Current Price Difference (buy): 6877
+Current Price Difference (sell): 26223
+
+Target Trade Time 3: 12
+Volume Ratio: 51.33
+Trades per 4 Hours: 36.47
+Buying Percent Changing: 0.45454545454545453
+Selling Percent Changing: 0.45454545454545453
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 1072063
+Time since last sell: 11145891
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 7 (30): 5 (40): 3 (45): 3 (50): 3 (60): 2 (75): 2 (90): 1 (120): 1
+Margins: (5): 9181 (10): 10449 (15): 16579 (20): 19643 (30): 20779 (40): 30886 (45): 30262 (50): 31461 (60): 32126 (75): 34193 (90): 33381 (120): 31174
+
+Time Elapsed: 400114:04:38
+-------------------------------

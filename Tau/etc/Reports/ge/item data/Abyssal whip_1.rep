@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Abyssal whip
+Item ID: 4151
+Adjusted Profit: 114.61k
+Adjusted Profit/Hr: 11.72k/Hr
+Average Profit: 114.62k
+Average Profit/Hr: 11.72k/Hr
+Expected Profit: 58.53k
+Expected Profit/Hr: 5.98k/Hr
+Items Bought: 24
+Items Sold: 24
+Items Left to Buy: 1
+Guide Price: -1
+Max Offer Value: -154.01k
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 6797829
+Offer Count (sell): 3
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 2265264
+AI Sell Price: 2265943
+AI Margin: 0.02%
+OSBuddy Buy AI Price: 2263529
+OSBuddy Sell AI Price: 2265480
+Average Price Change (B): 0.0
+Average Price Change (S): 3414.0
+Median Price Change (B): 2123.0
+Median Price Change (S): 2123.0
+Average Buy Price: 2272078
+Average Sell Price: 2276854
+Average Aborted Buy Price: 2272454
+Average Aborted Sell Price: 2276764
+Min Price: 2264056
+Max Price: 2265280
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 2268915 : 2271354 : 2270080 : 2270190 : 2270211
+Average Volatility (min : max : buy : sell : both): 1597 : 1777 : 2097 : 1859 : 1665
+Average Volatility (%) (min : max : buy : sell : both): 0.07 : 0.07 : 0.09 : 0.08 : 0.07
+
+Change Values [buy: -1566 | sell: -1273 | buy (%): -0.06% | sell (%): -0.05% | buy (%) (.15): -0.19% | sell (%) (.15): -0.1%]
+Percent Traded (buy): 41.32%
+Percent Traded (sell): 58.67%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [2108 : -1299 : 5834 : 1838]
+Average Max Price Check Change: [3167 : -694 : 7421 : 1930]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 4776
+Average Margin (%): 0.21%
+Average Absolute Lookup Margin: 2546.0
+Average Absolute Lookup Margin (%): 0.11%
+Average Lookup Margin: -1387.0
+Average Lookup Margin (%): -0.06%
+Current Margin: 679
+Current Price Difference (buy): 11618
+Current Price Difference (sell): -5370
+
+Target Trade Time 3: 12
+Volume Ratio: 51.33
+Trades per 4 Hours: 27.27
+Buying Percent Changing: 0.4
+Selling Percent Changing: 0.6
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 1052706
+Time since last sell: 312091
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 10 (30): 7 (40): 5 (45): 4 (50): 4 (60): 3 (75): 2 (90): 2 (120): 1
+Margins: (5): 1640 (10): 1951 (15): 2920 (20): 3405 (30): 4164 (40): 5385 (45): 4983 (50): 5329 (60): 5982 (75): 7239 (90): 6984 (120): 7415
+
+Time Elapsed: 400114:04:39
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Iron bar
+Item ID: 2351
+Adjusted Profit: 4.73k
+Adjusted Profit/Hr: 700/Hr
+Average Profit: 4.21k
+Average Profit/Hr: 624/Hr
+Expected Profit: 4.21k
+Expected Profit/Hr: 624/Hr
+Items Bought: 1.05k
+Items Sold: 1.05k
+Items Left to Buy: 8.94k
+Guide Price: -1
+Max Offer Value: 5.23m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 250
+Min Count (sell): 350
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 00:01:30
+AI Buy Price: 208
+AI Sell Price: 218
+AI Margin: 4.8%
+OSBuddy Buy AI Price: 208
+OSBuddy Sell AI Price: 216
+Average Price Change (B): -2.0
+Average Price Change (S): 2.5
+Median Price Change (B): 1.0
+Median Price Change (S): 2.0
+Average Buy Price: 214
+Average Sell Price: 218
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: 219
+Min Price: 212
+Max Price: 220
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 212 : 216 : 216 : 212 : 215
+Average Volatility (min : max : buy : sell : both): 0 : 2 : 2 : 0 : 2
+Average Volatility (%) (min : max : buy : sell : both): 0.37 : 1.06 : 1.06 : 0.37 : 0.93
+
+Change Values [buy: 3 | sell: 0 | buy (%): 1.28% | sell (%): -0.18% | buy (%) (.15): 1.81% | sell (%) (.15): 0.0%]
+Percent Traded (buy): 69.22%
+Percent Traded (sell): 30.77%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [2 : -3 : 0 : 1]
+Average Max Price Check Change: [0 : -1 : -6 : 0]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 4
+Average Margin (%): 1.86%
+Average Absolute Lookup Margin: 4.0
+Average Absolute Lookup Margin (%): 1.86%
+Average Lookup Margin: -4.0
+Average Lookup Margin (%): -1.86%
+Current Margin: 10
+Current Price Difference (buy): 10
+Current Price Difference (sell): 4
+
+Target Trade Time 3: 60
+Volume Ratio: 8.17
+Trades per 4 Hours: 2.27
+Buying Percent Changing: 0.3
+Selling Percent Changing: 0.0
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 11135856
+Time since last sell: 2397274
+
+Numbers Traded: (5): 10000 (10): 10000 (15): 10000 (20): 10000 (30): 10000 (40): 10000 (45): 10000 (50): 10000 (60): 10000 (75): 10000 (90): 10000 (120): 10000
+Margins: (5): 3 (10): 4 (15): 5 (20): 5 (30): 6 (40): 7 (45): 7 (50): 8 (60): 8 (75): 9 (90): 8 (120): 9
+
+Time Elapsed: 400012:50:03
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Magic seed
+Item ID: 5316
+Adjusted Profit: 59.25k
+Adjusted Profit/Hr: 2.59k/Hr
+Average Profit: 59.28k
+Average Profit/Hr: 2.60k/Hr
+Expected Profit: 9.92k
+Expected Profit/Hr: 435/Hr
+Items Bought: 40
+Items Sold: 40
+Items Left to Buy: 10
+Guide Price: -1
+Max Offer Value: 1.59m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 648552
+Offer Count (buy): 8
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 81069
+AI Sell Price: 82343
+AI Margin: 1.57%
+OSBuddy Buy AI Price: 81105
+OSBuddy Sell AI Price: 81975
+Average Price Change (B): -227.28571428571428
+Average Price Change (S): 336.6666666666667
+Median Price Change (B): -57.0
+Median Price Change (S): -36.0
+Average Buy Price: 78846
+Average Sell Price: 80328
+Average Aborted Buy Price: 79727
+Average Aborted Sell Price: 81464
+Min Price: 81500
+Max Price: 81727
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 81040 : 81288 : 81221 : 81107 : 81127
+Average Volatility (min : max : buy : sell : both): 408 : 433 : 500 : 326 : 350
+Average Volatility (%) (min : max : buy : sell : both): 0.5 : 0.53 : 0.61 : 0.4 : 0.43
+
+Change Values [buy: 394 | sell: 396 | buy (%): 0.48% | sell (%): 0.48% | buy (%) (.15): 0.61% | sell (%) (.15): 0.64%]
+Percent Traded (buy): 27.94%
+Percent Traded (sell): 72.05%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [0 : -359 : -1437 : 359]
+Average Max Price Check Change: [0 : -379 : -1517 : 379]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 1482
+Average Margin (%): 1.87%
+Average Absolute Lookup Margin: 172.0
+Average Absolute Lookup Margin (%): 0.21%
+Average Lookup Margin: -104.0
+Average Lookup Margin (%): -0.12%
+Current Margin: 1274
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 60
+Volume Ratio: 97.2
+Trades per 4 Hours: 3.66
+Buying Percent Changing: 0.625
+Selling Percent Changing: 0.25
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 9278637
+Time since last sell: 25424529
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 10 (30): 10 (40): 10 (45): 10 (50): 10 (60): 10 (75): 10 (90): 10 (120): 9
+Margins: (5): 250 (10): 417 (15): 576 (20): 659 (30): 752 (40): 852 (45): 861 (50): 866 (60): 870 (75): 878 (90): 813 (120): 992
+
+Time Elapsed: 399763:01:02
+-------------------------------

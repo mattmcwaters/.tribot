@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 14:37:01
+Adjusted Profit: 729.32k
+Adjusted Profit/Hr: 49.89k/Hr
+Average Profit: 1.02m
+Average Profit/Hr: 70.06k/Hr
+Expected Profit: 687.50k
+Expected Profit/Hr: 47.03k/Hr
+Total Value: 22.80m
+Is AI Start: true
+
+Offers Expired: true
+Records Updated: true
+Can Trade: true
+Offers Idle: true
+Are Prices Updated: true
+Can Update Prices: true
+Highest Max Price: 10430
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: Maple longbow (u)
+Best Offer Item (NM): Maple longbow (u)
+Expired Offer: Magic longbow (u) [4]
+Abort Offer: Super strength(4) [0]
+Idle Time Left: 00:-2:-2
+Stay Logged In Time Left: 00:-3:-47
+Collect Time Left: 00:-4:-57
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 14:32:04
+Name: Super strength(4)
+Offer: GeOffer{itemID=2440, name=Super strength(4), status=SELLING, quantity=583, price=5872, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 14:31:14
+Name: Super strength(3)
+Offer: GeOffer{itemID=157, name=Super strength(3), status=SELLING, quantity=94, price=4310, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 14:27:36
+Name: Raw swordfish
+Offer: GeOffer{itemID=371, name=Raw swordfish, status=SELLING, quantity=5441, price=330, tradeStatus=IN_PROGRESS, tradedItems=4, tradedGold=1320}
+Index: 3
+Has Expired: false
+Time Posted: 14:30:21
+Name: White berries
+Offer: GeOffer{itemID=239, name=White berries, status=BUYING, quantity=3224, price=909, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: true
+Time Posted: 14:11:05
+Name: Magic longbow (u)
+Offer: GeOffer{itemID=70, name=Magic longbow (u), status=SELLING, quantity=3771, price=1209, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 14:31:00
+Name: Molten glass
+Offer: GeOffer{itemID=1775, name=Molten glass, status=SELLING, quantity=2876, price=149, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 14:23:20
+Name: Torstol
+Offer: GeOffer{itemID=269, name=Torstol, status=BUYING, quantity=93, price=8576, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 14:20:07
+Name: Torstol
+Offer: GeOffer{itemID=269, name=Torstol, status=SELLING, quantity=458, price=8602, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}

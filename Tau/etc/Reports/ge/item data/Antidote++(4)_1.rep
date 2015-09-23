@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Antidote++(4)
+Item ID: 5952
+Adjusted Profit: 88.53k
+Adjusted Profit/Hr: 3.88k/Hr
+Average Profit: 103.53k
+Average Profit/Hr: 4.54k/Hr
+Expected Profit: 130.15k
+Expected Profit/Hr: 5.70k/Hr
+Items Bought: 2.95k
+Items Sold: 2.50k
+Items Left to Buy: 2.00k
+Guide Price: -1
+Max Offer Value: 2.02m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 626000
+Offer Count (buy): 2000
+Offer Value (sell): 206438
+Offer Count (sell): 466
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 313
+AI Sell Price: 443
+AI Margin: 41.53%
+OSBuddy Buy AI Price: 328
+OSBuddy Sell AI Price: 430
+Average Price Change (B): -38.5
+Average Price Change (S): 48.142857142857146
+Median Price Change (B): -15.0
+Median Price Change (S): -13.0
+Average Buy Price: 395
+Average Sell Price: 430
+Average Aborted Buy Price: 316
+Average Aborted Sell Price: 479
+Min Price: 376
+Max Price: 390
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 388 : 432 : 432 : 388 : 402
+Average Volatility (min : max : buy : sell : both): 12 : 30 : 30 : 12 : 25
+Average Volatility (%) (min : max : buy : sell : both): 3.18 : 7.04 : 7.04 : 3.18 : 6.42
+
+Change Values [buy: -29 | sell: -3 | buy (%): -7.31% | sell (%): -0.79% | buy (%) (.15): -9.97% | sell (%) (.15): -3.19%]
+Percent Traded (buy): 26.43%
+Percent Traded (sell): 73.56%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [23 : -23 : -1 : 19]
+Average Max Price Check Change: [19 : -6 : 93 : 15]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 35
+Average Margin (%): 8.86%
+Average Absolute Lookup Margin: 40.0
+Average Absolute Lookup Margin (%): 10.28%
+Average Lookup Margin: -32.0
+Average Lookup Margin (%): -8.52%
+Current Margin: 130
+Current Price Difference (buy): 1
+Current Price Difference (sell): 48
+
+Target Trade Time 3: 60
+Volume Ratio: 4.17
+Trades per 4 Hours: 3.43
+Buying Percent Changing: 0.36363636363636365
+Selling Percent Changing: 0.5454545454545454
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 9164305
+Time since last sell: 15802183
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 2000 (40): 2000 (45): 2000 (50): 2000 (60): 2000 (75): 2000 (90): 2000 (120): 1846
+Margins: (5): 31 (10): 45 (15): 56 (20): 63 (30): 80 (40): 85 (45): 99 (50): 101 (60): 102 (75): 105 (90): 103 (120): 104
+
+Time Elapsed: 399763:01:02
+-------------------------------

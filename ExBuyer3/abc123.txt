@@ -1,0 +1,30 @@
+#ExBuyer3
+#Sun Aug 16 14:03:08 UTC 2015
+pathToBank=
+shopTrader=true,Sawmill operator,Trade
+obstaclesToShop=
+useFastMode=false
+shopItems=Buy-8790-Bolt of cloth-880
+shopTile=(3302, 3491, 0)
+bankArea=
+currency=COINS
+useExactBuying=false
+useBankArea=false
+hopInRandomOrderInCustomList=false
+bankTile=(3254, 3420, 0)
+useF2P=false
+obstaclesForMisclick=Object-(3255, 3421, 1)-Staircase-Climb-down
+worlds=
+enableWorldHopping=true
+useIngameWorldHopper=true
+useWebWalker=true
+obstaclesToBank=
+useCustomWorldHopping=false
+maxWithdrawl=
+pathToShop=
+enableBanking=true
+withdrawWhenLessThan=
+potionType=NONE
+bankingMode=BOOTH
+withdrawCurrency=false
+minWithdrawl=

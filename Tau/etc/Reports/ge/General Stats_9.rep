@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 09:46:41
+Adjusted Profit: 1.13m
+Adjusted Profit/Hr: 115.77k/Hr
+Average Profit: 1.38m
+Average Profit/Hr: 141.16k/Hr
+Expected Profit: 1.01m
+Expected Profit/Hr: 104.00k/Hr
+Total Value: 26.56m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: false
+Offers Idle: true
+Are Prices Updated: true
+Can Update Prices: false
+Highest Max Price: 11900000
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: null
+Best Offer Item (NM): null
+Expired Offer: Temp Record null
+Abort Offer: Dragon bones [0]
+Idle Time Left: 00:01:17
+Stay Logged In Time Left: 00:-3:-14
+Collect Time Left: 00:-3:-27
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 09:46:23
+Name: Dragon bones
+Offer: GeOffer{itemID=536, name=Dragon bones, status=BUYING, quantity=366, price=2807, tradeStatus=ABORTED, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 09:43:14
+Name: Magic longbow (u)
+Offer: GeOffer{itemID=70, name=Magic longbow (u), status=SELLING, quantity=5626, price=1251, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 09:40:52
+Name: Dragon bones
+Offer: GeOffer{itemID=536, name=Dragon bones, status=SELLING, quantity=1277, price=2861, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 3
+Has Expired: false
+Time Posted: 09:40:13
+Name: Maple longbow (u)
+Offer: GeOffer{itemID=62, name=Maple longbow (u), status=SELLING, quantity=7862, price=111, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 09:42:58
+Name: Battlestaff
+Offer: GeOffer{itemID=1391, name=Battlestaff, status=BUYING, quantity=121, price=8489, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 09:41:10
+Name: Amulet of fury
+Offer: GeOffer{itemID=6585, name=Amulet of fury, status=BUYING, quantity=1, price=3017602, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 09:41:26
+Name: Soul rune
+Offer: GeOffer{itemID=566, name=Soul rune, status=SELLING, quantity=947, price=229, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 09:30:18
+Name: Soul rune
+Offer: GeOffer{itemID=566, name=Soul rune, status=BUYING, quantity=3715, price=202, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}

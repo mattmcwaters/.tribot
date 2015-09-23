@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Cosmic rune
+Item ID: 564
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 6.03k
+Average Profit/Hr: 617/Hr
+Expected Profit: 9.05k
+Expected Profit/Hr: 926/Hr
+Items Bought: 0
+Items Sold: 3.01k
+Items Left to Buy: 10.00k
+Guide Price: -1
+Max Offer Value: 6.64m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 250
+Min Count (sell): 350
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 136
+AI Sell Price: 149
+AI Margin: 9.55%
+OSBuddy Buy AI Price: 138
+OSBuddy Sell AI Price: 145
+Average Price Change (B): -2.5
+Average Price Change (S): 1.6
+Median Price Change (B): 1.0
+Median Price Change (S): 1.0
+Average Buy Price: -1
+Average Sell Price: 134
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: 133
+Min Price: 142
+Max Price: 142
+Is Buy Idle: true
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 137 : 140 : 140 : 137 : 139
+Average Volatility (min : max : buy : sell : both): 3 : 2 : 2 : 3 : 2
+Average Volatility (%) (min : max : buy : sell : both): 2.18 : 1.75 : 1.62 : 2.32 : 1.89
+
+Change Values [buy: 1 | sell: 4 | buy (%): 0.72% | sell (%): 3.04% | buy (%) (.15): 1.4% | sell (%) (.15): 3.1%]
+Percent Traded (buy): 54.42%
+Percent Traded (sell): 45.57%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [1 : -5 : -1 : 1]
+Average Max Price Check Change: [1 : 0 : 1 : 0]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 135
+Average Margin (%): -13500.0%
+Average Absolute Lookup Margin: 2.0
+Average Absolute Lookup Margin (%): 1.62%
+Average Lookup Margin: -2.0
+Average Lookup Margin (%): -1.26%
+Current Margin: 13
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 61
+Volume Ratio: 28.34
+Trades per 4 Hours: 1.71
+Buying Percent Changing: 0.45454545454545453
+Selling Percent Changing: 0.18181818181818182
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: 34233886
+
+Numbers Traded: (5): 10000 (10): 10000 (15): 10000 (20): 10000 (30): 10000 (40): 10000 (45): 10000 (50): 10000 (60): 10000 (75): 10000 (90): 10000 (120): 8000
+Margins: (5): 1 (10): 2 (15): 4 (20): 5 (30): 5 (40): 6 (45): 6 (50): 7 (60): 7 (75): 8 (90): 8 (120): 9
+
+Time Elapsed: 400114:04:38
+-------------------------------

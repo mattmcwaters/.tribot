@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Dwarf weed potion (unf)
+Item ID: 109
+Adjusted Profit: 15.55k
+Adjusted Profit/Hr: 1.89k/Hr
+Average Profit: 15.79k
+Average Profit/Hr: 1.92k/Hr
+Expected Profit: 8.88k
+Expected Profit/Hr: 1.08k/Hr
+Items Bought: 987
+Items Sold: 987
+Items Left to Buy: 1.01k
+Guide Price: -1
+Max Offer Value: 5.14m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 661497
+Offer Count (buy): 311
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: 00:00:19
+Average Sell Time: No Recent Trades
+AI Buy Price: 2127
+AI Sell Price: 2339
+AI Margin: 9.96%
+OSBuddy Buy AI Price: 2140
+OSBuddy Sell AI Price: 2257
+Average Price Change (B): -44.5
+Average Price Change (S): 89.0
+Median Price Change (B): -5.0
+Median Price Change (S): 8.0
+Average Buy Price: 2120
+Average Sell Price: 2136
+Average Aborted Buy Price: 2079
+Average Aborted Sell Price: 2220
+Min Price: 2198
+Max Price: 2199
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 2145 : 2154 : 2145 : 2154 : 2150
+Average Volatility (min : max : buy : sell : both): 28 : 35 : 28 : 35 : 32
+Average Volatility (%) (min : max : buy : sell : both): 1.31 : 1.64 : 1.32 : 1.63 : 1.51
+
+Change Values [buy: 53 | sell: 43 | buy (%): 2.41% | sell (%): 1.96% | buy (%) (.15): -1.65% | sell (%) (.15): -2.08%]
+Percent Traded (buy): 57.19%
+Percent Traded (sell): 42.8%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [88 : -44 : 0 : 58]
+Average Max Price Check Change: [89 : -44 : 0 : 59]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 5.05%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 5.05%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 16
+Average Margin (%): 0.75%
+Average Absolute Lookup Margin: 20.0
+Average Absolute Lookup Margin (%): 0.93%
+Average Lookup Margin: -10.0
+Average Lookup Margin (%): -0.49%
+Current Margin: 212
+Current Price Difference (buy): 9
+Current Price Difference (sell): 219
+
+Target Trade Time 3: 40
+Volume Ratio: 7.84
+Trades per 4 Hours: 6.84
+Buying Percent Changing: 0.6
+Selling Percent Changing: 0.4
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 1689145
+Time since last sell: 3775560
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 2000 (40): 2000 (45): 2000 (50): 2000 (60): 2000 (75): 2000 (90): 1922 (120): 1442
+Margins: (5): 45 (10): 81 (15): 99 (20): 116 (30): 117 (40): 117 (45): 118 (50): 118 (60): 118 (75): 118 (90): 118 (120): 118
+
+Time Elapsed: 399989:38:19
+-------------------------------

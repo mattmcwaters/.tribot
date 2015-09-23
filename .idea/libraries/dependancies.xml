@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="dependancies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependancies/Images.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/TRiBot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot825.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot740.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/trident.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot840.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot860.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/substance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependancies/xboot771.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Armadyl d'hide
+Item ID: 12508
+Adjusted Profit: 5.16k
+Adjusted Profit/Hr: 393/Hr
+Average Profit: 5.17k
+Average Profit/Hr: 394/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 4
+Items Sold: 4
+Items Left to Buy: 30
+Guide Price: -1
+Max Offer Value: 4.04m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 1
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 154105
+AI Sell Price: 180304
+AI Margin: 17.0%
+OSBuddy Buy AI Price: 156933
+OSBuddy Sell AI Price: 178462
+Average Price Change (B): -6455.0
+Average Price Change (S): 0.0
+Median Price Change (B): -4112.0
+Median Price Change (S): -4112.0
+Average Buy Price: 169765
+Average Sell Price: 171058
+Average Aborted Buy Price: 160324
+Average Aborted Sell Price: 177957
+Min Price: 170000
+Max Price: 170000
+Is Buy Idle: true
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 170000 : 170000 : 170000 : 170000 : 170000
+Average Volatility (min : max : buy : sell : both): 0 : 0 : 0 : 0 : 0
+Average Volatility (%) (min : max : buy : sell : both): 0.0 : 0.0 : 0.0 : 0.0 : 0.0
+
+Change Values [buy: 0 | sell: 0 | buy (%): 0.0% | sell (%): 0.0% | buy (%) (.15): 0.0% | sell (%) (.15): 0.0%]
+Percent Traded (buy): 50.0%
+Percent Traded (sell): 50.0%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [0 : -19686 : -19686 : 19686]
+Average Max Price Check Change: [6777 : 0 : 6777 : 6777]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 76.58%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 76.58%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 1293
+Average Margin (%): 0.76%
+Average Absolute Lookup Margin: 9402.0
+Average Absolute Lookup Margin (%): 6.08%
+Average Lookup Margin: -8809.0
+Average Lookup Margin (%): -5.72%
+Current Margin: 26199
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 32
+Volume Ratio: 1.15
+Trades per 4 Hours: 18.12
+Buying Percent Changing: 1.0
+Selling Percent Changing: 1.0
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 51899
+Time since last sell: 27559643
+
+Numbers Traded: (5): 30 (10): 30 (15): 30 (20): 30 (30): 30 (40): 30 (45): 30 (50): 29 (60): 24 (75): 19 (90): 16 (120): 12
+Margins: (5): 13940 (10): 19521 (15): 20525 (20): 21016 (30): 21529 (40): 22042 (45): 22042 (50): 22042 (60): 22042 (75): 22042 (90): 21529 (120): 21529
+
+Time Elapsed: 399811:47:14
+-------------------------------

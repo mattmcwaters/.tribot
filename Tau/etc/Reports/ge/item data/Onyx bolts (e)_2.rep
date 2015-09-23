@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Onyx bolts (e)
+Item ID: 9245
+Adjusted Profit: 59.08k
+Adjusted Profit/Hr: 7.18k/Hr
+Average Profit: 73.70k
+Average Profit/Hr: 8.96k/Hr
+Expected Profit: 73.70k
+Expected Profit/Hr: 8.96k/Hr
+Items Bought: 2.94k
+Items Sold: 2.37k
+Items Left to Buy: 9.02k
+Guide Price: 8811
+Max Offer Value: 74.73k
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 70456
+Offer Count (buy): 8
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 58
+Min Count (sell): 81
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 8807
+AI Sell Price: 8842
+AI Margin: 0.39%
+OSBuddy Buy AI Price: 8816
+OSBuddy Sell AI Price: 8836
+Average Price Change (B): 0.0
+Average Price Change (S): 0.0
+Median Price Change (B): -19.0
+Median Price Change (S): -19.0
+Average Buy Price: 8813
+Average Sell Price: 8838
+Average Aborted Buy Price: 8803
+Average Aborted Sell Price: 8832
+Min Price: 8769
+Max Price: 8889
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 8786 : 8811 : 8811 : 8786 : 8799
+Average Volatility (min : max : buy : sell : both): 12 : 16 : 16 : 12 : 12
+Average Volatility (%) (min : max : buy : sell : both): 0.14 : 0.18 : 0.18 : 0.14 : 0.14
+
+Change Values [buy: 33 | sell: -14 | buy (%): 0.36% | sell (%): -0.15% | buy (%) (.15): 0.79% | sell (%) (.15): -0.18%]
+Percent Traded (buy): 50.96%
+Percent Traded (sell): 49.03%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [11 : -17 : -24 : 9]
+Average Max Price Check Change: [50 : -34 : -3 : 40]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 131.66%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 71.6%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 25
+Average Margin (%): 0.28%
+Average Absolute Lookup Margin: 28.0
+Average Absolute Lookup Margin (%): 0.31%
+Average Lookup Margin: -27.0
+Average Lookup Margin (%): -0.3%
+Current Margin: 35
+Current Price Difference (buy): 30
+Current Price Difference (sell): 36
+
+Target Trade Time 3: 5
+Volume Ratio: 1.06
+Trades per 4 Hours: 137.38
+Buying Percent Changing: 0.2
+Selling Percent Changing: 0.5
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 4699833
+Time since last sell: 107256
+
+Numbers Traded: (5): 8397 (10): 4199 (15): 2800 (20): 2100 (30): 1400 (40): 1051 (45): 934 (50): 840 (60): 700 (75): 560 (90): 467 (120): 350
+Margins: (5): 20 (10): 27 (15): 32 (20): 38 (30): 42 (40): 61 (45): 63 (50): 74 (60): 77 (75): 99 (90): 99 (120): 103
+
+Time Elapsed: 399989:38:19
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Zamorak bracers
+Item ID: 10368
+Adjusted Profit: 19.99k
+Adjusted Profit/Hr: 1.52k/Hr
+Average Profit: 19.99k
+Average Profit/Hr: 1.52k/Hr
+Expected Profit: 14.55k
+Expected Profit/Hr: 1.10k/Hr
+Items Bought: 4
+Items Sold: 4
+Items Left to Buy: 15
+Guide Price: -1
+Max Offer Value: 4.04m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 00:05:51
+AI Buy Price: 97185
+AI Sell Price: 102156
+AI Margin: 5.11%
+OSBuddy Buy AI Price: 96970
+OSBuddy Sell AI Price: 102126
+Average Price Change (B): -2113.5
+Average Price Change (S): 1225.5
+Median Price Change (B): -952.0
+Median Price Change (S): -952.0
+Average Buy Price: 99453
+Average Sell Price: 104452
+Average Aborted Buy Price: 95799
+Average Aborted Sell Price: 103640
+Min Price: 96500
+Max Price: 104824
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 99584 : 103222 : 103222 : 99584 : 101134
+Average Volatility (min : max : buy : sell : both): 2227 : 1325 : 1325 : 2227 : 1088
+Average Volatility (%) (min : max : buy : sell : both): 2.23 : 1.28 : 1.28 : 2.23 : 1.07
+
+Change Values [buy: 1043 | sell: 574 | buy (%): 0.99% | sell (%): 0.5% | buy (%) (.15): 1.52% | sell (%) (.15): -3.19%]
+Percent Traded (buy): 41.33%
+Percent Traded (sell): 58.66%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [3251 : -2951 : 600 : 3101]
+Average Max Price Check Change: [0 : -1086 : -3258 : 814]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 4999
+Average Margin (%): 5.02%
+Average Absolute Lookup Margin: 3599.0
+Average Absolute Lookup Margin (%): 3.7%
+Average Lookup Margin: -3599.0
+Average Lookup Margin (%): -3.7%
+Current Margin: 4971
+Current Price Difference (buy): 7267
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 32
+Volume Ratio: 2.31
+Trades per 4 Hours: 5.36
+Buying Percent Changing: 0.6
+Selling Percent Changing: 0.0
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 2420826
+Time since last sell: 2082291
+
+Numbers Traded: (5): 15 (10): 15 (15): 15 (20): 15 (30): 15 (40): 15 (45): 15 (50): 15 (60): 15 (75): 15 (90): 15 (120): 12
+Margins: (5): 2956 (10): 4173 (15): 4789 (20): 5000 (30): 5156 (40): 5063 (45): 5063 (50): 5063 (60): 5063 (75): 5063 (90): 4907 (120): 4907
+
+Time Elapsed: 399811:47:13
+-------------------------------

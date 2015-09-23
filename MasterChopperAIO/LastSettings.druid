@@ -1,0 +1,17 @@
+#Sat Sep 12 19:48:37 EDT 2015
+changeAxe=true
+worldHopping=false
+mouseSpeed=105
+hovering=true
+normalDropping=true
+banking=false
+maximumBots=0
+centerTile=(3293, 3343, 0)
+radius=15
+antiban=true
+minutesToCheckPlayers=0
+customTreeName=Oak
+customChopping=true
+autoTrading=false
+mouseKey=false
+usingRadius=true

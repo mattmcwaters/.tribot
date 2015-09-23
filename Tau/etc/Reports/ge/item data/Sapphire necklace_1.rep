@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Sapphire necklace
+Item ID: 1656
+Adjusted Profit: 57.01k
+Adjusted Profit/Hr: 4.34k/Hr
+Average Profit: 151.17k
+Average Profit/Hr: 11.51k/Hr
+Expected Profit: 248.90k
+Expected Profit/Hr: 18.96k/Hr
+Items Bought: 1.52k
+Items Sold: 579
+Items Left to Buy: 2.00k
+Guide Price: -1
+Max Offer Value: 2.58m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 50
+Min Count (sell): 70
+Is Offered (buy): true
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 6981056643:05:35
+AI Buy Price: 1243
+AI Sell Price: 1542
+AI Margin: 24.05%
+OSBuddy Buy AI Price: 1221
+OSBuddy Sell AI Price: 1527
+Average Price Change (B): -7.0
+Average Price Change (S): 0.0
+Median Price Change (B): -1.0
+Median Price Change (S): -17.0
+Average Buy Price: 1451
+Average Sell Price: 1550
+Average Aborted Buy Price: 1406
+Average Aborted Sell Price: 1511
+Min Price: 1300
+Max Price: 1584
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 1300 : 1463 : 1463 : 1300 : 1303
+Average Volatility (min : max : buy : sell : both): 0 : 121 : 121 : 0 : 3
+Average Volatility (%) (min : max : buy : sell : both): 0.0 : 8.27 : 8.27 : 0.0 : 0.26
+
+Change Values [buy: -121 | sell: 0 | buy (%): -9.01% | sell (%): 0.0% | buy (%) (.15): -9.01% | sell (%) (.15): 0.0%]
+Percent Traded (buy): 8.39%
+Percent Traded (sell): 91.6%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [0 : 0 : 0 : 0]
+Average Max Price Check Change: [242 : 0 : 242 : 242]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 75.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 74.84%
+
+Is Price Abort (buy): false
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 99
+Average Margin (%): 6.82%
+Average Absolute Lookup Margin: 118.0
+Average Absolute Lookup Margin (%): 9.3%
+Average Lookup Margin: -84.0
+Average Lookup Margin (%): -6.73%
+Current Margin: 299
+Current Price Difference (buy): 336
+Current Price Difference (sell): 88
+
+Target Trade Time 3: 40
+Volume Ratio: 0.62
+Trades per 4 Hours: 10.25
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.5
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 10036806
+Time since last sell: 1111740
+
+Numbers Traded: (5): 2000 (10): 2000 (15): 2000 (20): 2000 (30): 2000 (40): 2000 (45): 2000 (50): 2000 (60): 2000 (75): 2000 (90): 2000 (120): 1580
+Margins: (5): 94 (10): 151 (15): 212 (20): 247 (30): 277 (40): 306 (45): 309 (50): 309 (60): 309 (75): 309 (90): 282 (120): 282
+
+Time Elapsed: 399811:47:13
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Maple longbow
+Item ID: 851
+Adjusted Profit: 81.63k
+Adjusted Profit/Hr: 8.34k/Hr
+Average Profit: 123.07k
+Average Profit/Hr: 12.58k/Hr
+Expected Profit: 164.09k
+Expected Profit/Hr: 16.78k/Hr
+Items Bought: 20.51k
+Items Sold: 13.12k
+Items Left to Buy: 335
+Guide Price: -1
+Max Offer Value: 4.60m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 2178870
+Offer Count (sell): 7386
+Min Count (buy): 450
+Min Count (sell): 630
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: 00:00:16
+Average Sell Time: No Recent Trades
+AI Buy Price: 276
+AI Sell Price: 295
+AI Margin: 6.88%
+OSBuddy Buy AI Price: 278
+OSBuddy Sell AI Price: 288
+Average Price Change (B): -3.6666666666666665
+Average Price Change (S): 9.0
+Median Price Change (B): 2.0
+Median Price Change (S): 2.0
+Average Buy Price: 275
+Average Sell Price: 281
+Average Aborted Buy Price: 271
+Average Aborted Sell Price: 286
+Min Price: 283
+Max Price: 284
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 274 : 282 : 279 : 276 : 278
+Average Volatility (min : max : buy : sell : both): 3 : 2 : 4 : 4 : 3
+Average Volatility (%) (min : max : buy : sell : both): 1.36 : 0.97 : 1.43 : 1.63 : 1.34
+
+Change Values [buy: -1 | sell: 4 | buy (%): -0.45% | sell (%): 1.29% | buy (%) (.15): -0.69% | sell (%) (.15): 3.47%]
+Percent Traded (buy): 80.23%
+Percent Traded (sell): 19.76%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [10 : -4 : 8 : 6]
+Average Max Price Check Change: [10 : -5 : 5 : 7]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 6
+Average Margin (%): 2.18%
+Average Absolute Lookup Margin: 6.0
+Average Absolute Lookup Margin (%): 2.28%
+Average Lookup Margin: -4.0
+Average Lookup Margin (%): -1.65%
+Current Margin: 19
+Current Price Difference (buy): 5
+Current Price Difference (sell): 19
+
+Target Trade Time 3: 52
+Volume Ratio: 13.5
+Trades per 4 Hours: 6.14
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.375
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 4580684
+Time since last sell: 304529
+
+Numbers Traded: (5): 18000 (10): 18000 (15): 18000 (20): 18000 (30): 18000 (40): 18000 (45): 18000 (50): 18000 (60): 18000 (75): 18000 (90): 18000 (120): 14334
+Margins: (5): 3 (10): 4 (15): 6 (20): 7 (30): 8 (40): 10 (45): 10 (50): 10 (60): 11 (75): 11 (90): 10 (120): 10
+
+Time Elapsed: 400114:04:39
+-------------------------------

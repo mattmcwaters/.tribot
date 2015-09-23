@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Dragon bones
+Item ID: 536
+Adjusted Profit: 41.73k
+Adjusted Profit/Hr: 8.21k/Hr
+Average Profit: 43.28k
+Average Profit/Hr: 8.51k/Hr
+Expected Profit: 89.11k
+Expected Profit/Hr: 17.53k/Hr
+Items Bought: 2.54k
+Items Sold: 2.46k
+Items Left to Buy: 5.77k
+Guide Price: -1
+Max Offer Value: 3.10m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 3099984
+Offer Count (buy): 1048
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 113
+Min Count (sell): 154
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: 00:00:37
+Average Sell Time: No Recent Trades
+AI Buy Price: 2958
+AI Sell Price: 3045
+AI Margin: 2.94%
+OSBuddy Buy AI Price: 2978
+OSBuddy Sell AI Price: 3022
+Average Price Change (B): -21.5
+Average Price Change (S): 2.0
+Median Price Change (B): 8.0
+Median Price Change (S): 8.0
+Average Buy Price: 2975
+Average Sell Price: 2992
+Average Aborted Buy Price: 2981
+Average Aborted Sell Price: 3022
+Min Price: 2976
+Max Price: 3005
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 2941 : 2976 : 2974 : 2942 : 2964
+Average Volatility (min : max : buy : sell : both): 22 : 17 : 19 : 21 : 18
+Average Volatility (%) (min : max : buy : sell : both): 0.77 : 0.57 : 0.64 : 0.73 : 0.63
+
+Change Values [buy: 6 | sell: 4 | buy (%): 0.18% | sell (%): 0.13% | buy (%) (.15): 0.36% | sell (%) (.15): 0.06%]
+Percent Traded (buy): 56.18%
+Percent Traded (sell): 43.81%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [13 : -21 : -45 : 18]
+Average Max Price Check Change: [21 : -13 : -9 : 13]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): true
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 17
+Average Margin (%): 0.57%
+Average Absolute Lookup Margin: 22.0
+Average Absolute Lookup Margin (%): 0.74%
+Average Lookup Margin: -17.0
+Average Lookup Margin (%): -0.58%
+Current Margin: 87
+Current Price Difference (buy): 34
+Current Price Difference (sell): 70
+
+Target Trade Time 3: 17
+Volume Ratio: 27.92
+Trades per 4 Hours: 39.99
+Buying Percent Changing: 0.5833333333333334
+Selling Percent Changing: 0.3333333333333333
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 388279
+Time since last sell: 236210
+
+Numbers Traded: (5): 7500 (10): 7500 (15): 6769 (20): 5084 (30): 3390 (40): 2546 (45): 2264 (50): 2040 (60): 1703 (75): 1371 (90): 1142 (120): 856
+Margins: (5): 14 (10): 17 (15): 35 (20): 44 (30): 42 (40): 59 (45): 58 (50): 69 (60): 82 (75): 106 (90): 88 (120): 86
+
+Time Elapsed: 400066:59:15
+-------------------------------

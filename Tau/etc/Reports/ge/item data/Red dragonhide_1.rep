@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Red dragonhide
+Item ID: 1749
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 10.00k
+Guide Price: -1
+Max Offer Value: 3.75m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 291485
+Offer Count (sell): 97
+Min Count (buy): 108
+Min Count (sell): 150
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 2992
+AI Sell Price: 3005
+AI Margin: 0.43%
+OSBuddy Buy AI Price: 2993
+OSBuddy Sell AI Price: 3005
+Average Price Change (B): 0.0
+Average Price Change (S): 0.0
+Median Price Change (B): -1.0
+Median Price Change (S): -1.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 2999
+Max Price: 3000
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 2700 : 2730 : 2730 : 2700 : 2703
+Average Volatility (min : max : buy : sell : both): 0 : 0 : 0 : 0 : 4
+Average Volatility (%) (min : max : buy : sell : both): 0.0 : 0.0 : 0.0 : 0.0 : 0.16
+
+Change Values [buy: 0 | sell: 0 | buy (%): 0.0% | sell (%): 0.0% | buy (%) (.15): 0.0% | sell (%) (.15): 0.0%]
+Percent Traded (buy): 12.35%
+Percent Traded (sell): 87.64%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [0 : 0 : 0 : 0]
+Average Max Price Check Change: [0 : 0 : 0 : 0]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 30.0
+Average Absolute Lookup Margin (%): 1.11%
+Average Lookup Margin: -30.0
+Average Lookup Margin (%): -1.11%
+Current Margin: 13
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 5
+Volume Ratio: 0.16
+Trades per 4 Hours: 106.62
+Buying Percent Changing: 0.0
+Selling Percent Changing: 0.3333333333333333
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 10000 (10): 7782 (15): 5188 (20): 3891 (30): 2594 (40): 1945 (45): 1729 (50): 1556 (60): 1297 (75): 1037 (90): 864 (120): 648
+Margins: (5): 12 (10): 12 (15): 12 (20): 12 (30): 12 (40): 12 (45): 12 (50): 12 (60): 12 (75): 12 (90): 12 (120): 12
+
+Time Elapsed: 399811:47:11
+-------------------------------

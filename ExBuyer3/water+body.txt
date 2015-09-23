@@ -1,0 +1,30 @@
+#ExBuyer3
+#Sat Sep 05 11:33:50 UTC 2015
+pathToBank=
+shopTrader=true,Betty,Trade
+obstaclesToShop=
+useFastMode=true
+shopItems=Buy-559-Body rune-1000,Buy-12730-Water rune pack-0
+shopTile=null\r\n
+bankArea=
+currency=COINS
+useExactBuying=true
+useBankArea=false
+hopInRandomOrderInCustomList=false
+bankTile=null
+useF2P=false
+obstaclesForMisclick=
+worlds=
+enableWorldHopping=false
+useIngameWorldHopper=false
+useWebWalker=false
+obstaclesToBank=
+useCustomWorldHopping=false
+maxWithdrawl=
+pathToShop=
+enableBanking=false
+withdrawWhenLessThan=
+potionType=NONE
+bankingMode=CHEST
+withdrawCurrency=false
+minWithdrawl=

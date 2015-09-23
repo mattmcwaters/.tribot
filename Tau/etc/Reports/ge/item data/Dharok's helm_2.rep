@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Dharok's helm
+Item ID: 4716
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 10
+Guide Price: -1
+Max Offer Value: 3.36m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 2525680
+Offer Count (buy): 10
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 252568
+AI Sell Price: 261561
+AI Margin: 3.56%
+OSBuddy Buy AI Price: 251201
+OSBuddy Sell AI Price: 260112
+Average Price Change (B): -724.2
+Average Price Change (S): 1494.4
+Median Price Change (B): -1055.0
+Median Price Change (S): -536.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 255000
+Max Price: 255000
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 254563 : 256891 : 256871 : 254582 : 255577
+Average Volatility (min : max : buy : sell : both): 1591 : 2527 : 2542 : 1584 : 2052
+Average Volatility (%) (min : max : buy : sell : both): 0.62 : 0.98 : 0.98 : 0.62 : 0.8
+
+Change Values [buy: -2126 | sell: -1224 | buy (%): -0.83% | sell (%): -0.48% | buy (%) (.15): -0.73% | sell (%) (.15): -0.36%]
+Percent Traded (buy): 43.73%
+Percent Traded (sell): 56.26%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [2042 : -2027 : 2086 : 2036]
+Average Max Price Check Change: [1392 : -286 : 4999 : 877]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 3454.0
+Average Absolute Lookup Margin (%): 1.35%
+Average Lookup Margin: -3430.0
+Average Lookup Margin (%): -1.34%
+Current Margin: 8993
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 59
+Volume Ratio: 11.33
+Trades per 4 Hours: 4.54
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.6
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 1651244
+Time since last sell: -1
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 10 (30): 10 (40): 10 (45): 10 (50): 10 (60): 10 (75): 10 (90): 10 (120): 10
+Margins: (5): 2132 (10): 2507 (15): 4763 (20): 5891 (30): 6541 (40): 7285 (45): 7521 (50): 8275 (60): 8900 (75): 9884 (90): 9559 (120): 9492
+
+Time Elapsed: 400066:59:29
+-------------------------------

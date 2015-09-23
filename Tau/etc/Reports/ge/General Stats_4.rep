@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 07:22:06
+Adjusted Profit: 787.75k
+Adjusted Profit/Hr: 106.90k/Hr
+Average Profit: 1.21m
+Average Profit/Hr: 164.44k/Hr
+Expected Profit: 970.03k
+Expected Profit/Hr: 131.64k/Hr
+Total Value: 19.93m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: true
+Offers Idle: false
+Are Prices Updated: true
+Can Update Prices: true
+Highest Max Price: 10672
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: Diamond bolts (e)
+Best Offer Item (NM): Diamond bolts (e)
+Expired Offer: Temp Record null
+Abort Offer: Temp Record null
+Idle Time Left: 00:-3:-10
+Stay Logged In Time Left: 00:00:00
+Collect Time Left: 00:00:-39
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 07:21:28
+Name: Potato cactus
+Offer: GeOffer{itemID=3138, name=Potato cactus, status=SELLING, quantity=11056, price=279, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 07:11:16
+Name: Raw swordfish
+Offer: GeOffer{itemID=371, name=Raw swordfish, status=BUYING, quantity=838, price=316, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 07:15:11
+Name: Ruby bolts (e)
+Offer: GeOffer{itemID=9242, name=Ruby bolts (e), status=BUYING, quantity=1332, price=373, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 3
+Has Expired: false
+Time Posted: 07:19:24
+Name: Battlestaff
+Offer: GeOffer{itemID=1391, name=Battlestaff, status=SELLING, quantity=588, price=8655, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 07:20:16
+Name: Dwarf weed potion (unf)
+Offer: GeOffer{itemID=109, name=Dwarf weed potion (unf), status=BUYING, quantity=189, price=2072, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 07:22:04
+Name: Diamond bolts (e)
+Offer: GeOffer{itemID=9243, name=Diamond bolts (e), status=SELLING, quantity=1174, price=585, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 07:12:20
+Name: Potato cactus
+Offer: GeOffer{itemID=3138, name=Potato cactus, status=BUYING, quantity=1367, price=234, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 07:10:45
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Uncut jade
+Item ID: 1627
+Adjusted Profit: 5.31k
+Adjusted Profit/Hr: 232/Hr
+Average Profit: 5.29k
+Average Profit/Hr: 232/Hr
+Expected Profit: 27.04k
+Expected Profit/Hr: 1.18k/Hr
+Items Bought: 563
+Items Sold: 588
+Items Left to Buy: 3.00k
+Guide Price: 413
+Max Offer Value: 985.29k
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 667152
+Offer Count (buy): 2712
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 75
+Min Count (sell): 105
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 246
+AI Sell Price: 680
+AI Margin: 176.42%
+OSBuddy Buy AI Price: 289
+OSBuddy Sell AI Price: 589
+Average Price Change (B): -145.0
+Average Price Change (S): 243.0
+Median Price Change (B): -1.0
+Median Price Change (S): 105.0
+Average Buy Price: 405
+Average Sell Price: 414
+Average Aborted Buy Price: 232
+Average Aborted Sell Price: 659
+Min Price: 400
+Max Price: 411
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 304 : 350 : 350 : 304 : 333
+Average Volatility (min : max : buy : sell : both): 58 : 59 : 59 : 58 : 72
+Average Volatility (%) (min : max : buy : sell : both): 19.24 : 17.0 : 17.0 : 19.24 : 21.77
+
+Change Values [buy: 60 | sell: 59 | buy (%): 14.63% | sell (%): 16.25% | buy (%) (.15): 14.63% | sell (%) (.15): 16.25%]
+Percent Traded (buy): 62.18%
+Percent Traded (sell): 37.81%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [155 : -117 : 38 : 136]
+Average Max Price Check Change: [274 : -119 : 155 : 196]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): true
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 9
+Average Margin (%): 2.22%
+Average Absolute Lookup Margin: 65.0
+Average Absolute Lookup Margin (%): 15.25%
+Average Lookup Margin: 17.0
+Average Lookup Margin (%): -0.73%
+Current Margin: 434
+Current Price Difference (buy): 147
+Current Price Difference (sell): 372
+
+Target Trade Time 3: 41
+Volume Ratio: 0.26
+Trades per 4 Hours: 5.46
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.5
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 13732352
+Time since last sell: 9784213
+
+Numbers Traded: (5): 3000 (10): 3000 (15): 3000 (20): 3000 (30): 3000 (40): 3000 (45): 3000 (50): 3000 (60): 3000 (75): 3000 (90): 3000 (120): 2769
+Margins: (5): 141 (10): 232 (15): 265 (20): 298 (30): 299 (40): 300 (45): 300 (50): 300 (60): 300 (75): 300 (90): 299 (120): 299
+
+Time Elapsed: 399763:01:03
+-------------------------------

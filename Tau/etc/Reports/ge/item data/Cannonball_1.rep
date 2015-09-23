@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Cannonball
+Item ID: 2
+Adjusted Profit: 54.76k
+Adjusted Profit/Hr: 10.77k/Hr
+Average Profit: 68.05k
+Average Profit/Hr: 13.39k/Hr
+Expected Profit: 17.01k
+Expected Profit/Hr: 3.34k/Hr
+Items Bought: 8.50k
+Items Sold: 7.00k
+Items Left to Buy: 11.49k
+Guide Price: -1
+Max Offer Value: 3.03m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 2436516
+Offer Count (buy): 11493
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 325
+Min Count (sell): 455
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: 00:01:38
+Average Sell Time: No Recent Trades
+AI Buy Price: 212
+AI Sell Price: 221
+AI Margin: 4.24%
+OSBuddy Buy AI Price: 211
+OSBuddy Sell AI Price: 219
+Average Price Change (B): -2.0
+Average Price Change (S): 2.4
+Median Price Change (B): -1.0
+Median Price Change (S): 1.0
+Average Buy Price: 211
+Average Sell Price: 219
+Average Aborted Buy Price: 213
+Average Aborted Sell Price: -1
+Min Price: 215
+Max Price: 217
+Is Buy Idle: true
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 216 : 218 : 217 : 216 : 217
+Average Volatility (min : max : buy : sell : both): 2 : 1 : 1 : 2 : 1
+Average Volatility (%) (min : max : buy : sell : both): 0.92 : 0.64 : 0.76 : 0.96 : 0.69
+
+Change Values [buy: -1 | sell: 1 | buy (%): -0.38% | sell (%): 0.37% | buy (%) (.15): -0.29% | sell (%) (.15): -0.16%]
+Percent Traded (buy): 60.15%
+Percent Traded (sell): 39.84%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [3 : -2 : 4 : 2]
+Average Max Price Check Change: [2 : -2 : 4 : 2]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 8
+Average Margin (%): 3.79%
+Average Absolute Lookup Margin: 2.0
+Average Absolute Lookup Margin (%): 0.77%
+Average Lookup Margin: 0.0
+Average Lookup Margin (%): -0.12%
+Current Margin: 9
+Current Price Difference (buy): 7
+Current Price Difference (sell): 10
+
+Target Trade Time 3: 60
+Volume Ratio: 168.3
+Trades per 4 Hours: 5.0
+Buying Percent Changing: 0.5
+Selling Percent Changing: 0.4166666666666667
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 894696
+Time since last sell: 14412585
+
+Numbers Traded: (5): 13000 (10): 13000 (15): 13000 (20): 13000 (30): 13000 (40): 13000 (45): 13000 (50): 13000 (60): 13000 (75): 13000 (90): 13000 (120): 11959
+Margins: (5): 1 (10): 2 (15): 4 (20): 6 (30): 6 (40): 8 (45): 7 (50): 7 (60): 8 (75): 8 (90): 8 (120): 9
+
+Time Elapsed: 400066:59:15
+-------------------------------

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Lobster
+Item ID: 379
+Adjusted Profit: 58.04k
+Adjusted Profit/Hr: 2.54k/Hr
+Average Profit: 63.93k
+Average Profit/Hr: 2.80k/Hr
+Expected Profit: 42.62k
+Expected Profit/Hr: 1.86k/Hr
+Items Bought: 20.47k
+Items Sold: 21.31k
+Items Left to Buy: 6.36k
+Guide Price: 159
+Max Offer Value: 1.94m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): 667234
+Offer Count (buy): 4223
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 250
+Min Count (sell): 350
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 09:35:44
+AI Buy Price: 158
+AI Sell Price: 161
+AI Margin: 1.89%
+OSBuddy Buy AI Price: 158
+OSBuddy Sell AI Price: 160
+Average Price Change (B): -1.0
+Average Price Change (S): 1.0
+Median Price Change (B): 1.0
+Median Price Change (S): 1.0
+Average Buy Price: 158
+Average Sell Price: 161
+Average Aborted Buy Price: 157
+Average Aborted Sell Price: -1
+Min Price: 158
+Max Price: 160
+Is Buy Idle: false
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 158 : 160 : 160 : 158 : 158
+Average Volatility (min : max : buy : sell : both): 0 : 1 : 1 : 0 : 1
+Average Volatility (%) (min : max : buy : sell : both): 0.4 : 0.68 : 0.68 : 0.4 : 0.63
+
+Change Values [buy: 2 | sell: 0 | buy (%): 0.95% | sell (%): 0.3% | buy (%) (.15): 1.03% | sell (%) (.15): 0.1%]
+Percent Traded (buy): 44.56%
+Percent Traded (sell): 55.43%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [1 : -1 : -1 : 1]
+Average Max Price Check Change: [1 : -1 : -2 : 1]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): true
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 3
+Average Margin (%): 1.89%
+Average Absolute Lookup Margin: 2.0
+Average Absolute Lookup Margin (%): 1.2%
+Average Lookup Margin: -2.0
+Average Lookup Margin (%): -1.2%
+Current Margin: 3
+Current Price Difference (buy): 5
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 60
+Volume Ratio: 28.29
+Trades per 4 Hours: 7.13
+Buying Percent Changing: 0.36363636363636365
+Selling Percent Changing: 0.36363636363636365
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 11694030
+Time since last sell: 55536
+
+Numbers Traded: (5): 10000 (10): 10000 (15): 10000 (20): 10000 (30): 10000 (40): 10000 (45): 10000 (50): 10000 (60): 10000 (75): 10000 (90): 8512 (120): 6384
+Margins: (5): 1 (10): 2 (15): 2 (20): 2 (30): 2 (40): 2 (45): 2 (50): 2 (60): 2 (75): 2 (90): 4 (120): 4
+
+Time Elapsed: 399763:01:03
+-------------------------------

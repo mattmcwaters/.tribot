@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 06:45:15
+Adjusted Profit: 642.46k
+Adjusted Profit/Hr: 95.11k/Hr
+Average Profit: 1.07m
+Average Profit/Hr: 159.63k/Hr
+Expected Profit: 403.92k
+Expected Profit/Hr: 59.80k/Hr
+Total Value: 20.92m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: false
+Offers Idle: true
+Are Prices Updated: true
+Can Update Prices: false
+Highest Max Price: 396253
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: null
+Best Offer Item (NM): null
+Expired Offer: Temp Record null
+Abort Offer: Magic longbow (u) [7]
+Idle Time Left: 00:00:30
+Stay Logged In Time Left: 00:00:-51
+Collect Time Left: 00:-1:-59
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 06:42:48
+Name: Verac's brassard
+Offer: GeOffer{itemID=4757, name=Verac's brassard, status=BUYING, quantity=8, price=178143, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 06:43:02
+Name: Verac's brassard
+Offer: GeOffer{itemID=4757, name=Verac's brassard, status=SELLING, quantity=2, price=203207, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 06:30:55
+Name: Diamond bolt tips
+Offer: GeOffer{itemID=9192, name=Diamond bolt tips, status=BUYING, quantity=8445, price=250, tradeStatus=IN_PROGRESS, tradedItems=216, tradedGold=54000}
+Index: 3
+Has Expired: false
+Time Posted: 06:23:42
+Name: Diamond bolts (e)
+Offer: GeOffer{itemID=9243, name=Diamond bolts (e), status=SELLING, quantity=7039, price=585, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 06:35:03
+Name: Battlestaff
+Offer: GeOffer{itemID=1391, name=Battlestaff, status=SELLING, quantity=594, price=8898, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 06:37:48
+Name: Ruby bolt tips
+Offer: GeOffer{itemID=9191, name=Ruby bolt tips, status=BUYING, quantity=9748, price=100, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 06:43:16
+Name: Diamond bolt tips
+Offer: GeOffer{itemID=9192, name=Diamond bolt tips, status=SELLING, quantity=1305, price=260, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 06:43:10
+Name: Magic longbow (u)
+Offer: GeOffer{itemID=70, name=Magic longbow (u), status=SELLING, quantity=3851, price=1216, tradeStatus=IN_PROGRESS, tradedItems=1, tradedGold=1216}

@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Silver ore
+Item ID: 442
+Adjusted Profit: 38.51k
+Adjusted Profit/Hr: 7.57k/Hr
+Average Profit: 64.84k
+Average Profit/Hr: 12.74k/Hr
+Expected Profit: 100.21k
+Expected Profit/Hr: 19.70k/Hr
+Items Bought: 5.89k
+Items Sold: 3.50k
+Items Left to Buy: 8.82k
+Guide Price: -1
+Max Offer Value: 2.64m
+Can Trade (buy): true
+Can Trade (sell): false
+Offer Value (buy): 1500080
+Offer Count (buy): 8824
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 325
+Min Count (sell): 455
+Is Offered (buy): false
+Is Offered (sell): true
+Is Offered (both): true
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: 00:08:14
+AI Buy Price: 170
+AI Sell Price: 305
+AI Margin: 79.41%
+OSBuddy Buy AI Price: 183
+OSBuddy Sell AI Price: 298
+Average Price Change (B): -42.0
+Average Price Change (S): 18.5
+Median Price Change (B): 2.0
+Median Price Change (S): 3.0
+Average Buy Price: 207
+Average Sell Price: 218
+Average Aborted Buy Price: 172
+Average Aborted Sell Price: 297
+Min Price: 210
+Max Price: 253
+Is Buy Idle: true
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 213 : 230 : 228 : 215 : 217
+Average Volatility (min : max : buy : sell : both): 13 : 22 : 24 : 12 : 14
+Average Volatility (%) (min : max : buy : sell : both): 6.1 : 9.67 : 10.52 : 5.69 : 6.45
+
+Change Values [buy: 12 | sell: -7 | buy (%): 4.25% | sell (%): -3.32% | buy (%) (.15): -8.57% | sell (%) (.15): -4.36%]
+Percent Traded (buy): 45.7%
+Percent Traded (sell): 54.29%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [17 : -41 : -7 : 25]
+Average Max Price Check Change: [43 : -23 : -4 : 30]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 78.86%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 78.86%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): false
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 11
+Average Margin (%): 5.31%
+Average Absolute Lookup Margin: 36.0
+Average Absolute Lookup Margin (%): 16.86%
+Average Lookup Margin: -34.0
+Average Lookup Margin (%): -15.73%
+Current Margin: 135
+Current Price Difference (buy): 48
+Current Price Difference (sell): 98
+
+Target Trade Time 3: 44
+Volume Ratio: 0.61
+Trades per 4 Hours: 5.36
+Buying Percent Changing: 0.25
+Selling Percent Changing: 0.5
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 445562
+Time since last sell: 1138810
+
+Numbers Traded: (5): 13000 (10): 13000 (15): 13000 (20): 13000 (30): 13000 (40): 13000 (45): 13000 (50): 13000 (60): 13000 (75): 13000 (90): 13000 (120): 13000
+Margins: (5): 42 (10): 57 (15): 95 (20): 115 (30): 107 (40): 115 (45): 115 (50): 115 (60): 115 (75): 115 (90): 115 (120): 115
+
+Time Elapsed: 400066:59:29
+-------------------------------

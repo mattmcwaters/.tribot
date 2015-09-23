@@ -1,0 +1,73 @@
+Username: Notgreek
+Run Time: 08:13:28
+Adjusted Profit: 801.06k
+Adjusted Profit/Hr: 97.40k/Hr
+Average Profit: 1.08m
+Average Profit/Hr: 131.46k/Hr
+Expected Profit: 647.51k
+Expected Profit/Hr: 78.72k/Hr
+Total Value: 20.56m
+Is AI Start: true
+
+Offers Expired: false
+Records Updated: true
+Can Trade: true
+Offers Idle: true
+Are Prices Updated: true
+Can Update Prices: true
+Highest Max Price: 10804
+Highest Max Price (Only Price Checks): 0
+General Options Profile: GeneralOptionsProfile{flipItems=false, cancelToPriceCheck=false, idleTime=1, geSlots=8, alwaysFindInitialMargins=false, waitForCompletedOffer=true, buyBondWhenAble=false}
+Hoard Ratio: 2.0
+Anti-Hoard: true
+Best Offer Item: Super strength(3)
+Best Offer Item (NM): Ruby bolts (e)
+Expired Offer: Temp Record null
+Abort Offer: Diamond bolts (e) [2]
+Idle Time Left: 00:-2:-47
+Stay Logged In Time Left: 00:00:-53
+Collect Time Left: 00:00:-55
+
+Interfaces07 Cache: false
+Ge07 Cache: false
+
+Timing RecordsIndex: 0
+Has Expired: false
+Time Posted: 08:11:51
+Name: Onyx bolts (e)
+Offer: GeOffer{itemID=9245, name=Onyx bolts (e), status=SELLING, quantity=573, price=8842, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 1
+Has Expired: false
+Time Posted: 08:12:05
+Name: Super strength(3)
+Offer: GeOffer{itemID=157, name=Super strength(3), status=SELLING, quantity=1032, price=4339, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 2
+Has Expired: false
+Time Posted: 08:03:43
+Name: Diamond bolts (e)
+Offer: GeOffer{itemID=9243, name=Diamond bolts (e), status=SELLING, quantity=1174, price=599, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 3
+Has Expired: false
+Time Posted: 08:12:19
+Name: Potato cactus
+Offer: GeOffer{itemID=3138, name=Potato cactus, status=SELLING, quantity=10955, price=301, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 4
+Has Expired: false
+Time Posted: 08:12:32
+Name: Battlestaff
+Offer: GeOffer{itemID=1391, name=Battlestaff, status=SELLING, quantity=588, price=8563, tradeStatus=IN_PROGRESS, tradedItems=0, tradedGold=0}
+Index: 5
+Has Expired: false
+Time Posted: 08:12:26
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 6
+Has Expired: false
+Time Posted: 08:11:24
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}
+Index: 7
+Has Expired: false
+Time Posted: 08:11:24
+Name: null
+Offer: GeOffer{itemID=0, name=null, status=EMPTY, quantity=0, price=0, tradeStatus=EMPTY, tradedItems=0, tradedGold=0}

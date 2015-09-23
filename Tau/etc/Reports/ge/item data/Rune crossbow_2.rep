@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Rune crossbow
+Item ID: 1215
+Adjusted Profit: 0
+Adjusted Profit/Hr: 0/Hr
+Average Profit: 0
+Average Profit/Hr: 0/Hr
+Expected Profit: 0
+Expected Profit/Hr: 0/Hr
+Items Bought: 0
+Items Sold: 0
+Items Left to Buy: 70
+Guide Price: -1
+Max Offer Value: 4.04m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 1
+Min Count (sell): 2
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 21523
+AI Sell Price: 23249
+AI Margin: 8.01%
+OSBuddy Buy AI Price: 21440
+OSBuddy Sell AI Price: 22952
+Average Price Change (B): -694.6666666666666
+Average Price Change (S): 639.6666666666666
+Median Price Change (B): 16.0
+Median Price Change (S): 143.0
+Average Buy Price: -1
+Average Sell Price: -1
+Average Aborted Buy Price: -1
+Average Aborted Sell Price: -1
+Min Price: 22000
+Max Price: 23400
+Is Buy Idle: true
+Is Sell Idle: true
+Average Price Check (min : max : buy : sell : both): 22040 : 23019 : 23019 : 22040 : 22482
+Average Volatility (min : max : buy : sell : both): 226 : 412 : 412 : 226 : 468
+Average Volatility (%) (min : max : buy : sell : both): 1.02 : 1.79 : 1.79 : 1.02 : 2.08
+
+Change Values [buy: -265 | sell: 9 | buy (%): -1.24% | sell (%): 0.03% | buy (%) (.15): -1.51% | sell (%) (.15): -0.12%]
+Percent Traded (buy): 50.07%
+Percent Traded (sell): 49.92%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [578 : -269 : 79 : 319]
+Average Max Price Check Change: [1150 : -393 : 726 : 553]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 0
+Average Margin (%): 0.0%
+Average Absolute Lookup Margin: 667.0
+Average Absolute Lookup Margin (%): 3.02%
+Average Lookup Margin: -564.0
+Average Lookup Margin (%): -2.56%
+Current Margin: 1726
+Current Price Difference (buy): 1
+Current Price Difference (sell): 1
+
+Target Trade Time 3: 56
+Volume Ratio: 3.37
+Trades per 4 Hours: 5.64
+Buying Percent Changing: 0.5833333333333334
+Selling Percent Changing: 0.3333333333333333
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: -1
+Time since last sell: -1
+
+Numbers Traded: (5): 70 (10): 70 (15): 70 (20): 70 (30): 70 (40): 70 (45): 70 (50): 70 (60): 70 (75): 70 (90): 70 (120): 56
+Margins: (5): 617 (10): 907 (15): 1064 (20): 1232 (30): 1289 (40): 1451 (45): 1464 (50): 1464 (60): 1512 (75): 1530 (90): 1486 (120): 1486
+
+Time Elapsed: 399811:47:12
+-------------------------------

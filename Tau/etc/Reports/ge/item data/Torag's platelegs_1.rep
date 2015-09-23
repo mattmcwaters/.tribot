@@ -1,0 +1,98 @@
+-------------------------------
+Item Name: Torag's platelegs
+Item ID: 4751
+Adjusted Profit: 289.70k
+Adjusted Profit/Hr: 42.89k/Hr
+Average Profit: 289.70k
+Average Profit/Hr: 42.89k/Hr
+Expected Profit: 98.78k
+Expected Profit/Hr: 14.62k/Hr
+Items Bought: 13
+Items Sold: 13
+Items Left to Buy: 3
+Guide Price: -1
+Max Offer Value: 5.23m
+Can Trade (buy): false
+Can Trade (sell): false
+Offer Value (buy): -1
+Offer Count (buy): 0
+Offer Value (sell): 0
+Offer Count (sell): 0
+Min Count (buy): 0
+Min Count (sell): 0
+Is Offered (buy): false
+Is Offered (sell): false
+Is Offered (both): false
+Has Valid Prices: true
+
+Average Buy Time: No Recent Trades
+Average Sell Time: No Recent Trades
+AI Buy Price: 316564
+AI Sell Price: 339454
+AI Margin: 7.23%
+OSBuddy Buy AI Price: 315940
+OSBuddy Sell AI Price: 335805
+Average Price Change (B): -5130.5
+Average Price Change (S): 4916.285714285715
+Median Price Change (B): 739.0
+Median Price Change (S): 1251.0
+Average Buy Price: 319264
+Average Sell Price: 341549
+Average Aborted Buy Price: 318726
+Average Aborted Sell Price: 346008
+Min Price: 323251
+Max Price: 325999
+Is Buy Idle: false
+Is Sell Idle: false
+Average Price Check (min : max : buy : sell : both): 323062 : 330661 : 330661 : 323062 : 326948
+Average Volatility (min : max : buy : sell : both): 2352 : 6050 : 6050 : 2352 : 4223
+Average Volatility (%) (min : max : buy : sell : both): 0.72 : 1.82 : 1.82 : 0.72 : 1.29
+
+Change Values [buy: 538 | sell: 607 | buy (%): 0.1% | sell (%): 0.18% | buy (%) (.15): -1.43% | sell (%) (.15): 0.21%]
+Percent Traded (buy): 44.7%
+Percent Traded (sell): 55.29%
+
+Pos : Neg : Both Total : Abs
+Average Min Price Check Change: [2931 : -4362 : -1360 : 3544]
+Average Max Price Check Change: [8254 : -18158 : 14859 : 7310]
+Average Min Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Average Max Price Check Change (%): [0.0 : 0.0 : 0.0 : 0.0]
+Abort Value (buy): 0.0%
+Abort Value (sell): 0.0%
+Percent Aborted (buy): 0.0%
+Percent Aborted (sell): 0.0%
+
+Is Price Abort (buy): < 0
+Is Price Abort (sell): < 0
+Is Count Abort (buy): false
+Is Count Abort (sell): false
+
+Average Margin: 22285
+Average Margin (%): 6.98%
+Average Absolute Lookup Margin: 9623.0
+Average Absolute Lookup Margin (%): 2.99%
+Average Lookup Margin: -9623.0
+Average Lookup Margin (%): -2.99%
+Current Margin: 22890
+Current Price Difference (buy): 20505
+Current Price Difference (sell): 17343
+
+Target Trade Time 3: 60
+Volume Ratio: 13.33
+Trades per 4 Hours: 3.41
+Buying Percent Changing: 0.45454545454545453
+Selling Percent Changing: 0.45454545454545453
+
+Next Price Update In: N/A
+Should Update Price: false
+Price Check Attempts Remaining: 3
+Is Full AI: true
+Is F2P Valid: true
+Time since last buy: 7974589
+Time since last sell: 6866516
+
+Numbers Traded: (5): 10 (10): 10 (15): 10 (20): 10 (30): 10 (40): 10 (45): 10 (50): 10 (60): 10 (75): 10 (90): 10 (120): 10
+Margins: (5): 6172 (10): 8503 (15): 11258 (20): 13054 (30): 15638 (40): 18662 (45): 19660 (50): 19661 (60): 20428 (75): 20706 (90): 19866 (120): 20882
+
+Time Elapsed: 400012:50:03
+-------------------------------
