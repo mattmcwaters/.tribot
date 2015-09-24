@@ -56,10 +56,10 @@ public class OrbSlave extends Script implements MessageListening07 {
         slaveToTrade = s;
         RSPlayer slave = Players.find(s)[0];
 
-        slave.click("Trade with "+s);
         while(Trading.getWindowState()==null){
-            sleep(2000, 3000);
                 slave.click("Trade with "+s);
+                 sleep(2000, 3000);
+
 
         }
     }

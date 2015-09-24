@@ -68,21 +68,21 @@ public class TradeSlave extends Node  {
             General.sleep(100);
         }
         General.sleep(3000, 5000);
-        Trading.offer(20, "Tuna");
+        Trading.offer(100, "Tuna");
         General.sleep(200, 600);
         int orbReceived = Trading.getCount(true, "Air orb");
         int gloryPotCount = (orbReceived/100)+1;
         int cosmicCount = orbReceived*3;
-        Trading.offer(gloryPotCount, "Amulet of glory(4)");
+        offerLoop(gloryPotCount, "Amulet of glory(4)");
         General.sleep(200, 600);
-        Trading.offer(gloryPotCount, "Stamina potion(4)");
+        offerLoop(gloryPotCount, "Stamina potion(4)");
         General.sleep(200, 600);
-        Trading.offer(cosmicCount, "Cosmic rune");
+        offerLoop(cosmicCount, "Cosmic rune");
         General.sleep(200, 600);
-        Trading.offer(orbReceived, "Unpowered orb");
+        offerLoop(orbReceived, "Unpowered orb");
         General.sleep(200, 600);
         Trading.accept();
-        General.sleep(1000, 2000);
+        General.sleep(2000, 3000);
 
         Trading.accept();
         OrbSlave.tradedCount++;
@@ -117,6 +117,13 @@ public class TradeSlave extends Node  {
         }
     }
 
+    public void offerLoop(int offerCount, String itemName){
+        while(Inventory.getCount(itemName)!=offerCount){
+            Trading.offer(offerCount, itemName);
+            General.sleep(2000, 5000);
 
+        }
+
+    }
 
 }

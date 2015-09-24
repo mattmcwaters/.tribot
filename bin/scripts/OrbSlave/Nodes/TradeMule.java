@@ -66,18 +66,17 @@ public class TradeMule extends Node {
         RSPlayer mule = Players.find(muleName)[0];
         General.sleep(400,1200);
         long startTime = System.currentTimeMillis();
-        mule.click("Trade with "+muleName);
         while(Trading.getWindowState()==null){
-            General.sleep(30*1000);
             mule.click("Trade with "+muleName);
+            General.sleep(30*1000);
+
 
         }
 
-        waitUntilTraded();
 
 
         General.sleep(1000, 3000);
-        Trading.offer(Inventory.getCount("Air orb"), "Air orb");
+        offerLoop("Air orb");
         General.sleep(1000, 3000);
         Trading.offer(Inventory.getCount("Amulet of glory"), "Amulet of glory");
         General.sleep(1000, 3000);
@@ -88,7 +87,17 @@ public class TradeMule extends Node {
             Trading.accept();
             waitUntilAccept();
             Trading.accept();
+            General.sleep(1000, 3000);
+            if(Banking.isInBank()) {
+                if (!Banking.isBankScreenOpen()) {
+                    Banking.openBankBooth();
+                }
+                General.sleep(1000, 3000);
+                Banking.depositAll();
+                Banking.close();
+            }
             gloryTeleport();
+
             throw new NullPointerException();
 
 
@@ -103,7 +112,14 @@ public class TradeMule extends Node {
 
 
     }
+    public void offerLoop(String itemName){
+        while(Inventory.getCount(itemName)>0){
+            Trading.offer(Inventory.getCount(itemName), itemName);
+            General.sleep(2000, 5000);
 
+        }
+
+    }
     public void waitUntilAccept(){
         while(!Trading.hasAccepted(true)){
             General.sleep(400, 1000);
