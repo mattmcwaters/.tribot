@@ -68,7 +68,7 @@ public class TradeMule extends Node {
         long startTime = System.currentTimeMillis();
         while(Trading.getWindowState()==null){
             mule.click("Trade with "+muleName);
-            General.sleep(30*1000);
+            General.sleep(20*1000);
 
 
         }
@@ -114,7 +114,7 @@ public class TradeMule extends Node {
     }
     public void offerLoop(String itemName){
         while(Inventory.getCount(itemName)>0){
-            Trading.offer(Inventory.getCount(itemName), itemName);
+            Trading.offer(0, itemName);
             General.sleep(2000, 5000);
 
         }

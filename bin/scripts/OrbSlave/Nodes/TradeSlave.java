@@ -68,7 +68,7 @@ public class TradeSlave extends Node  {
             General.sleep(100);
         }
         General.sleep(3000, 5000);
-        Trading.offer(100, "Tuna");
+        Trading.offer(350, "Tuna");
         General.sleep(200, 600);
         int orbReceived = Trading.getCount(true, "Air orb");
         int gloryPotCount = (orbReceived/100)+1;
@@ -118,12 +118,10 @@ public class TradeSlave extends Node  {
     }
 
     public void offerLoop(int offerCount, String itemName){
-        while(Inventory.getCount(itemName)!=offerCount){
+        while(Trading.getCount(false, itemName)!=offerCount){
             Trading.offer(offerCount, itemName);
             General.sleep(2000, 5000);
-
         }
-
     }
 
 }
